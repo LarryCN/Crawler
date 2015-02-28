@@ -1,0 +1,1037 @@
+larry crawler..... fetch 500 pages
+visit url http://en.wikipedia.org/wiki/Computer_science Thu Feb 12 03:24:11 2015
+download page http://en.wikipedia.org/wiki/Computer_science docID 0 size 281244 depth -1 total size: 281244 total num: 1 Thu Feb 12 03:24:12 2015
+visit url http://en.wikipedia.org/wiki/Computation Thu Feb 12 03:24:12 2015
+download page http://en.wikipedia.org/wiki/Computation docID 1 size 37578 depth -1 total size: 318822 total num: 2 Thu Feb 12 03:24:12 2015
+visit url http://en.wikipedia.org/wiki/Programming_language_theory Thu Feb 12 03:24:12 2015
+download page http://en.wikipedia.org/wiki/Programming_language_theory docID 2 size 63869 depth -1 total size: 382691 total num: 3 Thu Feb 12 03:24:12 2015
+visit url http://en.wikipedia.org/wiki/Computer_graphics_(computer_science) Thu Feb 12 03:24:12 2015
+download page http://en.wikipedia.org/wiki/Computer_graphics_(computer_science) docID 3 size 81853 depth -1 total size: 464544 total num: 4 Thu Feb 12 03:24:12 2015
+visit url http://en.wikipedia.org/wiki/Concurrency_(computer_science) Thu Feb 12 03:24:12 2015
+download page http://en.wikipedia.org/wiki/Concurrency_(computer_science) docID 4 size 59734 depth -1 total size: 524278 total num: 5 Thu Feb 12 03:24:12 2015
+visit url http://www.ccny.cuny.edu/compsci/ Thu Feb 12 03:24:13 2015
+download page http://www.ccny.cuny.edu/compsci/ docID 5 size 37606 depth -1 total size: 561884 total num: 6 Thu Feb 12 03:24:13 2015
+visit url https://www.coursera.org/course/cs101 Thu Feb 12 03:24:14 2015
+download page https://www.coursera.org/course/cs101 docID 6 size 43450 depth -1 total size: 605334 total num: 7 Thu Feb 12 03:24:14 2015
+visit url http://www.washington.edu/news/2015/02/11/how-to-interest-girls-in-computer-science-and-engineering-shift-the-stereotypes/ Thu Feb 12 03:24:17 2015
+download page http://www.washington.edu/news/2015/02/11/how-to-interest-girls-in-computer-science-and-engineering-shift-the-stereotypes/ docID 7 size 43869 depth -1 total size: 649203 total num: 8 Thu Feb 12 03:24:17 2015
+visit url http://fortune.com/2015/02/10/college-major-statistics-fastest-growing/ Thu Feb 12 03:24:18 2015
+download page http://fortune.com/2015/02/10/college-major-statistics-fastest-growing/ docID 8 size 47862 depth -1 total size: 697065 total num: 9 Thu Feb 12 03:24:18 2015
+visit url http://triblive.com/news/adminpage/7757085-74/jahanian-science-university Thu Feb 12 03:24:18 2015
+download page http://triblive.com/news/adminpage/7757085-74/jahanian-science-university docID 9 size 108960 depth -1 total size: 806025 total num: 10 Thu Feb 12 03:24:19 2015
+docID 0 priority is 366
+docID 7 priority is 64
+docID 3 priority is 37
+docID 9 priority is 35
+docID 2 priority is 26
+docID 4 priority is 26
+docID 8 priority is 25
+docID 1 priority is 21
+docID 5 priority is 5
+docID 6 priority is 4
+ 
+crawl url on page(docID) 0 priority is 366
+ 
+visit url http://bits.wikimedia.org/favicon/wikipedia.ico Thu Feb 12 03:24:23 2015
+visit url http://creativecommons.org/licenses/by-sa/3.0/ Thu Feb 12 03:24:24 2015
+download page http://creativecommons.org/licenses/by-sa/3.0/ docID 10 size 23898 depth 0 total size: 829923 total num: 11 Thu Feb 12 03:24:24 2015
+visit url http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.math.styles%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&only=styles&skin=vector&* Thu Feb 12 03:24:24 2015
+visit url http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=site&only=styles&skin=vector&* Thu Feb 12 03:24:24 2015
+visit url http://meta.wikimedia.org Thu Feb 12 03:24:24 2015
+download page http://meta.wikimedia.org docID 11 size 88157 depth 0 total size: 918080 total num: 12 Thu Feb 12 03:24:24 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#mw-head Thu Feb 12 03:24:24 2015
+download page http://en.wikipedia.org/wiki/Computer_science#mw-head docID 12 size 281244 depth 0 total size: 1199324 total num: 13 Thu Feb 12 03:24:25 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#p-search Thu Feb 12 03:24:25 2015
+download page http://en.wikipedia.org/wiki/Computer_science#p-search docID 13 size 281244 depth 0 total size: 1480568 total num: 14 Thu Feb 12 03:24:25 2015
+visit url http://en.wikipedia.org/wiki/Science Thu Feb 12 03:24:25 2015
+download page http://en.wikipedia.org/wiki/Science docID 14 size 310025 depth 0 total size: 1790593 total num: 15 Thu Feb 12 03:24:25 2015
+visit url http://en.wikipedia.org/wiki/Procedure_(computer_science) Thu Feb 12 03:24:25 2015
+download page http://en.wikipedia.org/wiki/Procedure_(computer_science) docID 15 size 110440 depth 0 total size: 1901033 total num: 16 Thu Feb 12 03:24:25 2015
+visit url http://en.wikipedia.org/wiki/Algorithm Thu Feb 12 03:24:25 2015
+download page http://en.wikipedia.org/wiki/Algorithm docID 16 size 263387 depth 0 total size: 2164420 total num: 17 Thu Feb 12 03:24:25 2015
+visit url http://en.wikipedia.org/wiki/Information Thu Feb 12 03:24:25 2015
+download page http://en.wikipedia.org/wiki/Information docID 17 size 150548 depth 0 total size: 2314968 total num: 18 Thu Feb 12 03:24:26 2015
+visit url http://en.wikipedia.org/wiki/Bit Thu Feb 12 03:24:26 2015
+download page http://en.wikipedia.org/wiki/Bit docID 18 size 93494 depth 0 total size: 2408462 total num: 19 Thu Feb 12 03:24:26 2015
+visit url http://en.wikipedia.org/wiki/Computer_memory Thu Feb 12 03:24:26 2015
+download page http://en.wikipedia.org/wiki/Computer_memory docID 19 size 67860 depth 0 total size: 2476322 total num: 20 Thu Feb 12 03:24:26 2015
+visit url http://en.wikipedia.org/wiki/Gene Thu Feb 12 03:24:26 2015
+download page http://en.wikipedia.org/wiki/Gene docID 20 size 172819 depth 0 total size: 2649141 total num: 21 Thu Feb 12 03:24:26 2015
+visit url http://en.wikipedia.org/wiki/Protein Thu Feb 12 03:24:26 2015
+download page http://en.wikipedia.org/wiki/Protein docID 21 size 301134 depth 0 total size: 2950275 total num: 22 Thu Feb 12 03:24:26 2015
+visit url http://en.wikipedia.org/wiki/Cell_(biology) Thu Feb 12 03:24:26 2015
+download page http://en.wikipedia.org/wiki/Cell_(biology) docID 22 size 175367 depth 0 total size: 3125642 total num: 23 Thu Feb 12 03:24:26 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-1 Thu Feb 12 03:24:26 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-1 docID 23 size 281244 depth 0 total size: 3406886 total num: 24 Thu Feb 12 03:24:27 2015
+visit url http://en.wikipedia.org/wiki/Computer_scientist Thu Feb 12 03:24:27 2015
+download page http://en.wikipedia.org/wiki/Computer_scientist docID 24 size 37644 depth 0 total size: 3444530 total num: 25 Thu Feb 12 03:24:27 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-2 Thu Feb 12 03:24:27 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-2 docID 25 size 281244 depth 0 total size: 3725774 total num: 26 Thu Feb 12 03:24:27 2015
+visit url http://en.wikipedia.org/wiki/Computational_complexity_theory Thu Feb 12 03:24:27 2015
+download page http://en.wikipedia.org/wiki/Computational_complexity_theory docID 26 size 152227 depth 0 total size: 3878001 total num: 27 Thu Feb 12 03:24:27 2015
+visit url http://en.wikipedia.org/wiki/Computational_problem Thu Feb 12 03:24:27 2015
+download page http://en.wikipedia.org/wiki/Computational_problem docID 27 size 33699 depth 0 total size: 3911700 total num: 28 Thu Feb 12 03:24:27 2015
+visit url http://en.wikipedia.org/wiki/Computer_programming Thu Feb 12 03:24:27 2015
+download page http://en.wikipedia.org/wiki/Computer_programming docID 28 size 143263 depth 0 total size: 4054963 total num: 29 Thu Feb 12 03:24:27 2015
+visit url http://en.wikipedia.org/wiki/Programming_language Thu Feb 12 03:24:27 2015
+download page http://en.wikipedia.org/wiki/Programming_language docID 29 size 218549 depth 0 total size: 4273512 total num: 30 Thu Feb 12 03:24:28 2015
+visit url http://en.wikipedia.org/wiki/Complex_systems Thu Feb 12 03:24:28 2015
+download page http://en.wikipedia.org/wiki/Complex_systems docID 30 size 104350 depth 0 total size: 4377862 total num: 31 Thu Feb 12 03:24:28 2015
+visit url http://en.wikipedia.org/wiki/Computer_accessibility Thu Feb 12 03:24:28 2015
+download page http://en.wikipedia.org/wiki/Computer_accessibility docID 31 size 105732 depth 0 total size: 4483594 total num: 32 Thu Feb 12 03:24:28 2015
+visit url http://en.wikipedia.org/wiki/Human Thu Feb 12 03:24:28 2015
+download page http://en.wikipedia.org/wiki/Human docID 32 size 582687 depth 0 total size: 5066281 total num: 33 Thu Feb 12 03:24:28 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#History Thu Feb 12 03:24:28 2015
+download page http://en.wikipedia.org/wiki/Computer_science#History docID 33 size 281244 depth 0 total size: 5347525 total num: 34 Thu Feb 12 03:24:28 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#History_2 Thu Feb 12 03:24:28 2015
+download page http://en.wikipedia.org/wiki/Computer_science#History_2 docID 34 size 281244 depth 0 total size: 5628769 total num: 35 Thu Feb 12 03:24:29 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#Philosophy Thu Feb 12 03:24:29 2015
+download page http://en.wikipedia.org/wiki/Computer_science#Philosophy docID 35 size 281244 depth 0 total size: 5910013 total num: 36 Thu Feb 12 03:24:29 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#Name_of_the_field Thu Feb 12 03:24:29 2015
+download page http://en.wikipedia.org/wiki/Computer_science#Name_of_the_field docID 36 size 281244 depth 0 total size: 6191257 total num: 37 Thu Feb 12 03:24:29 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#Areas_of_computer_science Thu Feb 12 03:24:29 2015
+download page http://en.wikipedia.org/wiki/Computer_science#Areas_of_computer_science docID 37 size 281244 depth 0 total size: 6472501 total num: 38 Thu Feb 12 03:24:29 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#Theoretical_computer_science Thu Feb 12 03:24:29 2015
+download page http://en.wikipedia.org/wiki/Computer_science#Theoretical_computer_science docID 38 size 281244 depth 0 total size: 6753745 total num: 39 Thu Feb 12 03:24:30 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#Theory_of_computation Thu Feb 12 03:24:30 2015
+download page http://en.wikipedia.org/wiki/Computer_science#Theory_of_computation docID 39 size 281244 depth 0 total size: 7034989 total num: 40 Thu Feb 12 03:24:30 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#Information_and_coding_theory Thu Feb 12 03:24:30 2015
+download page http://en.wikipedia.org/wiki/Computer_science#Information_and_coding_theory docID 40 size 281244 depth 0 total size: 7316233 total num: 41 Thu Feb 12 03:24:30 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#Algorithms_and_data_structures Thu Feb 12 03:24:30 2015
+download page http://en.wikipedia.org/wiki/Computer_science#Algorithms_and_data_structures docID 41 size 281244 depth 0 total size: 7597477 total num: 42 Thu Feb 12 03:24:30 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#Programming_language_theory Thu Feb 12 03:24:30 2015
+download page http://en.wikipedia.org/wiki/Computer_science#Programming_language_theory docID 42 size 281244 depth 0 total size: 7878721 total num: 43 Thu Feb 12 03:24:31 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#Formal_methods Thu Feb 12 03:24:31 2015
+download page http://en.wikipedia.org/wiki/Computer_science#Formal_methods docID 43 size 281244 depth 0 total size: 8159965 total num: 44 Thu Feb 12 03:24:31 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#Applied_computer_science Thu Feb 12 03:24:31 2015
+download page http://en.wikipedia.org/wiki/Computer_science#Applied_computer_science docID 44 size 281244 depth 0 total size: 8441209 total num: 45 Thu Feb 12 03:24:31 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#Artificial_intelligence Thu Feb 12 03:24:31 2015
+download page http://en.wikipedia.org/wiki/Computer_science#Artificial_intelligence docID 45 size 281244 depth 0 total size: 8722453 total num: 46 Thu Feb 12 03:24:31 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#Computer_architecture_and_engineering Thu Feb 12 03:24:31 2015
+download page http://en.wikipedia.org/wiki/Computer_science#Computer_architecture_and_engineering docID 46 size 281244 depth 0 total size: 9003697 total num: 47 Thu Feb 12 03:24:32 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#Computer_Performance_Analysis Thu Feb 12 03:24:32 2015
+download page http://en.wikipedia.org/wiki/Computer_science#Computer_Performance_Analysis docID 47 size 281244 depth 0 total size: 9284941 total num: 48 Thu Feb 12 03:24:32 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#Computer_graphics_and_visualization Thu Feb 12 03:24:32 2015
+download page http://en.wikipedia.org/wiki/Computer_science#Computer_graphics_and_visualization docID 48 size 281244 depth 0 total size: 9566185 total num: 49 Thu Feb 12 03:24:32 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#Computer_security_and_cryptography Thu Feb 12 03:24:32 2015
+download page http://en.wikipedia.org/wiki/Computer_science#Computer_security_and_cryptography docID 49 size 281244 depth 0 total size: 9847429 total num: 50 Thu Feb 12 03:24:32 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#Computational_science Thu Feb 12 03:24:32 2015
+download page http://en.wikipedia.org/wiki/Computer_science#Computational_science docID 50 size 281244 depth 0 total size: 10128673 total num: 51 Thu Feb 12 03:24:32 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#Computer_networks Thu Feb 12 03:24:32 2015
+download page http://en.wikipedia.org/wiki/Computer_science#Computer_networks docID 51 size 281244 depth 0 total size: 10409917 total num: 52 Thu Feb 12 03:24:33 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#Concurrent.2C_parallel_and_distributed_systems Thu Feb 12 03:24:33 2015
+download page http://en.wikipedia.org/wiki/Computer_science#Concurrent.2C_parallel_and_distributed_systems docID 52 size 281244 depth 0 total size: 10691161 total num: 53 Thu Feb 12 03:24:33 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#Databases Thu Feb 12 03:24:33 2015
+download page http://en.wikipedia.org/wiki/Computer_science#Databases docID 53 size 281244 depth 0 total size: 10972405 total num: 54 Thu Feb 12 03:24:33 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#Health_informatics Thu Feb 12 03:24:33 2015
+download page http://en.wikipedia.org/wiki/Computer_science#Health_informatics docID 54 size 281244 depth 0 total size: 11253649 total num: 55 Thu Feb 12 03:24:33 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#Information_science Thu Feb 12 03:24:33 2015
+download page http://en.wikipedia.org/wiki/Computer_science#Information_science docID 55 size 281244 depth 0 total size: 11534893 total num: 56 Thu Feb 12 03:24:34 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#Software_engineering Thu Feb 12 03:24:34 2015
+download page http://en.wikipedia.org/wiki/Computer_science#Software_engineering docID 56 size 281244 depth 0 total size: 11816137 total num: 57 Thu Feb 12 03:24:34 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#The_great_insights_of_computer_science Thu Feb 12 03:24:34 2015
+download page http://en.wikipedia.org/wiki/Computer_science#The_great_insights_of_computer_science docID 57 size 281244 depth 0 total size: 12097381 total num: 58 Thu Feb 12 03:24:34 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#Academia Thu Feb 12 03:24:34 2015
+download page http://en.wikipedia.org/wiki/Computer_science#Academia docID 58 size 281244 depth 0 total size: 12378625 total num: 59 Thu Feb 12 03:24:34 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#Conferences Thu Feb 12 03:24:34 2015
+download page http://en.wikipedia.org/wiki/Computer_science#Conferences docID 59 size 281244 depth 0 total size: 12659869 total num: 60 Thu Feb 12 03:24:35 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#Journals Thu Feb 12 03:24:35 2015
+download page http://en.wikipedia.org/wiki/Computer_science#Journals docID 60 size 281244 depth 0 total size: 12941113 total num: 61 Thu Feb 12 03:24:35 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#Education Thu Feb 12 03:24:35 2015
+download page http://en.wikipedia.org/wiki/Computer_science#Education docID 61 size 281244 depth 0 total size: 13222357 total num: 62 Thu Feb 12 03:24:35 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#See_also Thu Feb 12 03:24:35 2015
+download page http://en.wikipedia.org/wiki/Computer_science#See_also docID 62 size 281244 depth 0 total size: 13503601 total num: 63 Thu Feb 12 03:24:35 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#Notes Thu Feb 12 03:24:35 2015
+download page http://en.wikipedia.org/wiki/Computer_science#Notes docID 63 size 281244 depth 0 total size: 13784845 total num: 64 Thu Feb 12 03:24:35 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#References Thu Feb 12 03:24:35 2015
+download page http://en.wikipedia.org/wiki/Computer_science#References docID 64 size 281244 depth 0 total size: 14066089 total num: 65 Thu Feb 12 03:24:36 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#Further_reading Thu Feb 12 03:24:36 2015
+download page http://en.wikipedia.org/wiki/Computer_science#Further_reading docID 65 size 281244 depth 0 total size: 14347333 total num: 66 Thu Feb 12 03:24:36 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#External_links Thu Feb 12 03:24:36 2015
+download page http://en.wikipedia.org/wiki/Computer_science#External_links docID 66 size 281244 depth 0 total size: 14628577 total num: 67 Thu Feb 12 03:24:36 2015
+visit url http://en.wikipedia.org/wiki/History_of_computer_science Thu Feb 12 03:24:36 2015
+download page http://en.wikipedia.org/wiki/History_of_computer_science docID 67 size 98961 depth 0 total size: 14727538 total num: 68 Thu Feb 12 03:24:36 2015
+visit url http://en.wikipedia.org/wiki/Charles_Babbage Thu Feb 12 03:24:36 2015
+download page http://en.wikipedia.org/wiki/Charles_Babbage docID 68 size 350966 depth 0 total size: 15078504 total num: 69 Thu Feb 12 03:24:36 2015
+visit url http://en.wikipedia.org/wiki/File:Ada_lovelace.jpg Thu Feb 12 03:24:36 2015
+download page http://en.wikipedia.org/wiki/File:Ada_lovelace.jpg docID 69 size 52004 depth 0 total size: 15130508 total num: 70 Thu Feb 12 03:24:37 2015
+visit url http://en.wikipedia.org/wiki/Ada_Lovelace Thu Feb 12 03:24:37 2015
+download page http://en.wikipedia.org/wiki/Ada_Lovelace docID 70 size 258053 depth 0 total size: 15388561 total num: 71 Thu Feb 12 03:24:37 2015
+visit url http://en.wikipedia.org/wiki/Digital_computer Thu Feb 12 03:24:37 2015
+download page http://en.wikipedia.org/wiki/Digital_computer docID 71 size 306515 depth 0 total size: 15695076 total num: 72 Thu Feb 12 03:24:37 2015
+visit url http://en.wikipedia.org/wiki/Abacus Thu Feb 12 03:24:37 2015
+download page http://en.wikipedia.org/wiki/Abacus docID 72 size 168581 depth 0 total size: 15863657 total num: 73 Thu Feb 12 03:24:37 2015
+visit url http://en.wikipedia.org/wiki/Algorithms Thu Feb 12 03:24:37 2015
+download page http://en.wikipedia.org/wiki/Algorithms docID 73 size 263768 depth 0 total size: 16127425 total num: 74 Thu Feb 12 03:24:37 2015
+visit url http://en.wikipedia.org/wiki/Sanskrit Thu Feb 12 03:24:37 2015
+download page http://en.wikipedia.org/wiki/Sanskrit docID 74 size 365467 depth 0 total size: 16492892 total num: 75 Thu Feb 12 03:24:38 2015
+visit url http://en.wikipedia.org/wiki/Shulba_Sutras Thu Feb 12 03:24:38 2015
+download page http://en.wikipedia.org/wiki/Shulba_Sutras docID 75 size 114664 depth 0 total size: 16607556 total num: 76 Thu Feb 12 03:24:38 2015
+visit url http://en.wikipedia.org/wiki/Computational_geometry Thu Feb 12 03:24:38 2015
+download page http://en.wikipedia.org/wiki/Computational_geometry docID 76 size 74992 depth 0 total size: 16682548 total num: 77 Thu Feb 12 03:24:38 2015
+visit url http://en.wikipedia.org/wiki/Blaise_Pascal Thu Feb 12 03:24:38 2015
+download page http://en.wikipedia.org/wiki/Blaise_Pascal docID 77 size 255298 depth 0 total size: 16937846 total num: 78 Thu Feb 12 03:24:38 2015
+visit url http://en.wikipedia.org/wiki/Pascal%27s_calculator Thu Feb 12 03:24:38 2015
+download page http://en.wikipedia.org/wiki/Pascal%27s_calculator docID 78 size 167551 depth 0 total size: 17105397 total num: 79 Thu Feb 12 03:24:38 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-3 Thu Feb 12 03:24:38 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-3 docID 79 size 281244 depth 0 total size: 17386641 total num: 80 Thu Feb 12 03:24:38 2015
+visit url http://en.wikipedia.org/wiki/Gottfried_Leibniz Thu Feb 12 03:24:38 2015
+download page http://en.wikipedia.org/wiki/Gottfried_Leibniz docID 80 size 387819 depth 0 total size: 17774460 total num: 81 Thu Feb 12 03:24:39 2015
+visit url http://en.wikipedia.org/wiki/Stepped_Reckoner Thu Feb 12 03:24:39 2015
+download page http://en.wikipedia.org/wiki/Stepped_Reckoner docID 81 size 51461 depth 0 total size: 17825921 total num: 82 Thu Feb 12 03:24:39 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-4 Thu Feb 12 03:24:39 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-4 docID 82 size 281244 depth 0 total size: 18107165 total num: 83 Thu Feb 12 03:24:39 2015
+visit url http://en.wikipedia.org/wiki/Thomas_de_Colmar Thu Feb 12 03:24:39 2015
+download page http://en.wikipedia.org/wiki/Thomas_de_Colmar docID 83 size 34729 depth 0 total size: 18141894 total num: 84 Thu Feb 12 03:24:39 2015
+visit url http://en.wikipedia.org/wiki/Mechanical_calculator Thu Feb 12 03:24:39 2015
+download page http://en.wikipedia.org/wiki/Mechanical_calculator docID 84 size 167106 depth 0 total size: 18309000 total num: 85 Thu Feb 12 03:24:39 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-5 Thu Feb 12 03:24:39 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-5 docID 85 size 281244 depth 0 total size: 18590244 total num: 86 Thu Feb 12 03:24:40 2015
+visit url http://en.wikipedia.org/wiki/Arithmometer Thu Feb 12 03:24:40 2015
+download page http://en.wikipedia.org/wiki/Arithmometer docID 86 size 84047 depth 0 total size: 18674291 total num: 87 Thu Feb 12 03:24:40 2015
+visit url http://en.wikipedia.org/wiki/Difference_engine Thu Feb 12 03:24:40 2015
+download page http://en.wikipedia.org/wiki/Difference_engine docID 87 size 92793 depth 0 total size: 18767084 total num: 88 Thu Feb 12 03:24:40 2015
+visit url http://en.wikipedia.org/wiki/Analytical_Engine Thu Feb 12 03:24:40 2015
+download page http://en.wikipedia.org/wiki/Analytical_Engine docID 88 size 95854 depth 0 total size: 18862938 total num: 89 Thu Feb 12 03:24:40 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-6 Thu Feb 12 03:24:40 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-6 docID 89 size 281244 depth 0 total size: 19144182 total num: 90 Thu Feb 12 03:24:40 2015
+visit url http://en.wikipedia.org/wiki/Computer Thu Feb 12 03:24:40 2015
+download page http://en.wikipedia.org/wiki/Computer docID 90 size 306247 depth 0 total size: 19450429 total num: 91 Thu Feb 12 03:24:40 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-7 Thu Feb 12 03:24:40 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-7 docID 91 size 281244 depth 0 total size: 19731673 total num: 92 Thu Feb 12 03:24:41 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-8 Thu Feb 12 03:24:41 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-8 docID 92 size 281244 depth 0 total size: 20012917 total num: 93 Thu Feb 12 03:24:41 2015
+visit url http://en.wikipedia.org/wiki/Bernoulli_numbers Thu Feb 12 03:24:41 2015
+download page http://en.wikipedia.org/wiki/Bernoulli_numbers docID 93 size 277888 depth 0 total size: 20290805 total num: 94 Thu Feb 12 03:24:41 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-9 Thu Feb 12 03:24:41 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-9 docID 94 size 281244 depth 0 total size: 20572049 total num: 95 Thu Feb 12 03:24:41 2015
+visit url http://en.wikipedia.org/wiki/Herman_Hollerith Thu Feb 12 03:24:41 2015
+download page http://en.wikipedia.org/wiki/Herman_Hollerith docID 95 size 79662 depth 0 total size: 20651711 total num: 96 Thu Feb 12 03:24:41 2015
+visit url http://en.wikipedia.org/wiki/Tabulating_machines Thu Feb 12 03:24:41 2015
+download page http://en.wikipedia.org/wiki/Tabulating_machines docID 96 size 64830 depth 0 total size: 20716541 total num: 97 Thu Feb 12 03:24:41 2015
+visit url http://en.wikipedia.org/wiki/Punched_card Thu Feb 12 03:24:41 2015
+download page http://en.wikipedia.org/wiki/Punched_card docID 97 size 151293 depth 0 total size: 20867834 total num: 98 Thu Feb 12 03:24:42 2015
+visit url http://en.wikipedia.org/wiki/IBM Thu Feb 12 03:24:42 2015
+download page http://en.wikipedia.org/wiki/IBM docID 98 size 292465 depth 0 total size: 21160299 total num: 99 Thu Feb 12 03:24:42 2015
+visit url http://en.wikipedia.org/wiki/Howard_Aiken Thu Feb 12 03:24:42 2015
+download page http://en.wikipedia.org/wiki/Howard_Aiken docID 99 size 61546 depth 0 total size: 21221845 total num: 100 Thu Feb 12 03:24:42 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-10 Thu Feb 12 03:24:42 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-10 docID 100 size 281244 depth 0 total size: 21503089 total num: 101 Thu Feb 12 03:24:42 2015
+visit url http://en.wikipedia.org/wiki/Harvard_Mark_I Thu Feb 12 03:24:42 2015
+download page http://en.wikipedia.org/wiki/Harvard_Mark_I docID 101 size 69887 depth 0 total size: 21572976 total num: 102 Thu Feb 12 03:24:42 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-11 Thu Feb 12 03:24:42 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-11 docID 102 size 281244 depth 0 total size: 21854220 total num: 103 Thu Feb 12 03:24:42 2015
+visit url http://en.wikipedia.org/wiki/Computing Thu Feb 12 03:24:42 2015
+download page http://en.wikipedia.org/wiki/Computing docID 103 size 162247 depth 0 total size: 22016467 total num: 104 Thu Feb 12 03:24:43 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-12 Thu Feb 12 03:24:43 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-12 docID 104 size 281244 depth 0 total size: 22297711 total num: 105 Thu Feb 12 03:24:43 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-Denning_cs_discipline-13 Thu Feb 12 03:24:43 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-Denning_cs_discipline-13 docID 105 size 281244 depth 0 total size: 22578955 total num: 106 Thu Feb 12 03:24:43 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-14 Thu Feb 12 03:24:43 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-14 docID 106 size 281244 depth 0 total size: 22860199 total num: 107 Thu Feb 12 03:24:43 2015
+visit url http://en.wikipedia.org/wiki/Cambridge_Diploma_in_Computer_Science Thu Feb 12 03:24:43 2015
+download page http://en.wikipedia.org/wiki/Cambridge_Diploma_in_Computer_Science docID 107 size 28860 depth 0 total size: 22889059 total num: 108 Thu Feb 12 03:24:43 2015
+visit url http://en.wikipedia.org/wiki/University_of_Cambridge Thu Feb 12 03:24:43 2015
+download page http://en.wikipedia.org/wiki/University_of_Cambridge docID 108 size 525531 depth 0 total size: 23414590 total num: 109 Thu Feb 12 03:24:44 2015
+visit url http://en.wikipedia.org/wiki/Cambridge_Computer_Lab Thu Feb 12 03:24:44 2015
+download page http://en.wikipedia.org/wiki/Cambridge_Computer_Lab docID 109 size 77569 depth 0 total size: 23492159 total num: 110 Thu Feb 12 03:24:44 2015
+visit url http://en.wikipedia.org/wiki/Purdue_University Thu Feb 12 03:24:44 2015
+download page http://en.wikipedia.org/wiki/Purdue_University docID 110 size 284412 depth 0 total size: 23776571 total num: 111 Thu Feb 12 03:24:45 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-15 Thu Feb 12 03:24:45 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-15 docID 111 size 281244 depth 0 total size: 24057815 total num: 112 Thu Feb 12 03:24:45 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-Levy1984-16 Thu Feb 12 03:24:45 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-Levy1984-16 docID 112 size 281244 depth 0 total size: 24339059 total num: 113 Thu Feb 12 03:24:45 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-17 Thu Feb 12 03:24:45 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-17 docID 113 size 281244 depth 0 total size: 24620303 total num: 114 Thu Feb 12 03:24:45 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-18 Thu Feb 12 03:24:45 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-18 docID 114 size 281244 depth 0 total size: 24901547 total num: 115 Thu Feb 12 03:24:45 2015
+visit url http://en.wikipedia.org/wiki/File:Enigma.jpg Thu Feb 12 03:24:45 2015
+download page http://en.wikipedia.org/wiki/File:Enigma.jpg docID 115 size 47921 depth 0 total size: 24949468 total num: 116 Thu Feb 12 03:24:46 2015
+visit url http://en.wikipedia.org/wiki/Germany Thu Feb 12 03:24:46 2015
+download page http://en.wikipedia.org/wiki/Germany docID 116 size 797286 depth 0 total size: 25746754 total num: 117 Thu Feb 12 03:24:46 2015
+visit url http://en.wikipedia.org/wiki/Enigma_machine Thu Feb 12 03:24:46 2015
+download page http://en.wikipedia.org/wiki/Enigma_machine docID 117 size 217992 depth 0 total size: 25964746 total num: 118 Thu Feb 12 03:24:46 2015
+visit url http://en.wikipedia.org/wiki/World_War_II Thu Feb 12 03:24:46 2015
+download page http://en.wikipedia.org/wiki/World_War_II docID 118 size 863241 depth 0 total size: 26827987 total num: 119 Thu Feb 12 03:24:47 2015
+visit url http://en.wikipedia.org/wiki/Bletchley_Park Thu Feb 12 03:24:47 2015
+download page http://en.wikipedia.org/wiki/Bletchley_Park docID 119 size 233800 depth 0 total size: 27061787 total num: 120 Thu Feb 12 03:24:47 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-kahnbook-19 Thu Feb 12 03:24:47 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-kahnbook-19 docID 120 size 281244 depth 0 total size: 27343031 total num: 121 Thu Feb 12 03:24:47 2015
+visit url http://en.wikipedia.org/wiki/Society Thu Feb 12 03:24:47 2015
+download page http://en.wikipedia.org/wiki/Society docID 121 size 153254 depth 0 total size: 27496285 total num: 122 Thu Feb 12 03:24:47 2015
+visit url http://en.wikipedia.org/wiki/Electronics Thu Feb 12 03:24:47 2015
+download page http://en.wikipedia.org/wiki/Electronics docID 122 size 127440 depth 0 total size: 27623725 total num: 123 Thu Feb 12 03:24:47 2015
+visit url http://en.wikipedia.org/wiki/Information_Age Thu Feb 12 03:24:47 2015
+download page http://en.wikipedia.org/wiki/Information_Age docID 123 size 116935 depth 0 total size: 27740660 total num: 124 Thu Feb 12 03:24:48 2015
+visit url http://en.wikipedia.org/wiki/Information_revolution Thu Feb 12 03:24:48 2015
+download page http://en.wikipedia.org/wiki/Information_revolution docID 124 size 65050 depth 0 total size: 27805710 total num: 125 Thu Feb 12 03:24:48 2015
+visit url http://en.wikipedia.org/wiki/Industrial_Revolution Thu Feb 12 03:24:48 2015
+download page http://en.wikipedia.org/wiki/Industrial_Revolution docID 125 size 456359 depth 0 total size: 28262069 total num: 126 Thu Feb 12 03:24:48 2015
+visit url http://en.wikipedia.org/wiki/Neolithic_Revolution Thu Feb 12 03:24:48 2015
+download page http://en.wikipedia.org/wiki/Neolithic_Revolution docID 126 size 223522 depth 0 total size: 28485591 total num: 127 Thu Feb 12 03:24:48 2015
+visit url http://en.wikipedia.org/wiki/Digital_revolution Thu Feb 12 03:24:48 2015
+download page http://en.wikipedia.org/wiki/Digital_revolution docID 127 size 130545 depth 0 total size: 28616136 total num: 128 Thu Feb 12 03:24:48 2015
+visit url http://en.wikipedia.org/wiki/Internet Thu Feb 12 03:24:48 2015
+download page http://en.wikipedia.org/wiki/Internet docID 128 size 392038 depth 0 total size: 29008174 total num: 129 Thu Feb 12 03:24:49 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-bgu-20 Thu Feb 12 03:24:49 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-bgu-20 docID 129 size 281244 depth 0 total size: 29289418 total num: 130 Thu Feb 12 03:24:49 2015
+visit url http://en.wikipedia.org/wiki/Computability Thu Feb 12 03:24:49 2015
+download page http://en.wikipedia.org/wiki/Computability docID 130 size 71994 depth 0 total size: 29361412 total num: 131 Thu Feb 12 03:24:49 2015
+visit url http://en.wikipedia.org/wiki/Undecidable_problem Thu Feb 12 03:24:49 2015
+download page http://en.wikipedia.org/wiki/Undecidable_problem docID 131 size 44623 depth 0 total size: 29406035 total num: 132 Thu Feb 12 03:24:49 2015
+visit url http://en.wikipedia.org/wiki/Intractably Thu Feb 12 03:24:49 2015
+download page http://en.wikipedia.org/wiki/Intractably docID 132 size 152673 depth 0 total size: 29558708 total num: 133 Thu Feb 12 03:24:49 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-21 Thu Feb 12 03:24:49 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-21 docID 133 size 281244 depth 0 total size: 29839952 total num: 134 Thu Feb 12 03:24:50 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-22 Thu Feb 12 03:24:50 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-22 docID 134 size 281244 depth 0 total size: 30121196 total num: 135 Thu Feb 12 03:24:50 2015
+visit url http://en.wikipedia.org/wiki/Cryptography Thu Feb 12 03:24:50 2015
+download page http://en.wikipedia.org/wiki/Cryptography docID 135 size 216002 depth 0 total size: 30337198 total num: 136 Thu Feb 12 03:24:50 2015
+visit url http://en.wikipedia.org/wiki/Cryptanalysis_of_the_Enigma Thu Feb 12 03:24:50 2015
+download page http://en.wikipedia.org/wiki/Cryptanalysis_of_the_Enigma docID 136 size 304051 depth 0 total size: 30641249 total num: 137 Thu Feb 12 03:24:50 2015
+visit url http://en.wikipedia.org/wiki/Scientific_computing Thu Feb 12 03:24:50 2015
+download page http://en.wikipedia.org/wiki/Scientific_computing docID 137 size 63554 depth 0 total size: 30704803 total num: 138 Thu Feb 12 03:24:50 2015
+visit url http://en.wikipedia.org/wiki/Human_Genome_Project Thu Feb 12 03:24:50 2015
+download page http://en.wikipedia.org/wiki/Human_Genome_Project docID 138 size 176666 depth 0 total size: 30881469 total num: 139 Thu Feb 12 03:24:51 2015
+visit url http://en.wikipedia.org/wiki/Distributed_computing Thu Feb 12 03:24:51 2015
+download page http://en.wikipedia.org/wiki/Distributed_computing docID 139 size 143921 depth 0 total size: 31025390 total num: 140 Thu Feb 12 03:24:51 2015
+visit url http://en.wikipedia.org/wiki/Folding@home Thu Feb 12 03:24:51 2015
+download page http://en.wikipedia.org/wiki/Folding@home docID 140 size 475798 depth 0 total size: 31501188 total num: 141 Thu Feb 12 03:24:51 2015
+visit url http://en.wikipedia.org/wiki/Protein_folding Thu Feb 12 03:24:51 2015
+download page http://en.wikipedia.org/wiki/Protein_folding docID 141 size 175429 depth 0 total size: 31676617 total num: 142 Thu Feb 12 03:24:51 2015
+visit url http://en.wikipedia.org/wiki/Algorithmic_trading Thu Feb 12 03:24:51 2015
+download page http://en.wikipedia.org/wiki/Algorithmic_trading docID 142 size 201316 depth 0 total size: 31877933 total num: 143 Thu Feb 12 03:24:52 2015
+visit url http://en.wikipedia.org/wiki/Economic_efficiency Thu Feb 12 03:24:52 2015
+download page http://en.wikipedia.org/wiki/Economic_efficiency docID 143 size 50866 depth 0 total size: 31928799 total num: 144 Thu Feb 12 03:24:52 2015
+visit url http://en.wikipedia.org/wiki/Market_liquidity Thu Feb 12 03:24:52 2015
+download page http://en.wikipedia.org/wiki/Market_liquidity docID 144 size 52238 depth 0 total size: 31981037 total num: 145 Thu Feb 12 03:24:52 2015
+visit url http://en.wikipedia.org/wiki/Artificial_intelligence Thu Feb 12 03:24:52 2015
+download page http://en.wikipedia.org/wiki/Artificial_intelligence docID 145 size 613321 depth 0 total size: 32594358 total num: 146 Thu Feb 12 03:24:52 2015
+visit url http://en.wikipedia.org/wiki/Machine_learning Thu Feb 12 03:24:52 2015
+download page http://en.wikipedia.org/wiki/Machine_learning docID 146 size 133995 depth 0 total size: 32728353 total num: 147 Thu Feb 12 03:24:52 2015
+visit url http://en.wikipedia.org/wiki/Statistics Thu Feb 12 03:24:52 2015
+download page http://en.wikipedia.org/wiki/Statistics docID 147 size 231502 depth 0 total size: 32959855 total num: 148 Thu Feb 12 03:24:52 2015
+visit url http://en.wikipedia.org/wiki/Numerical_analysis Thu Feb 12 03:24:52 2015
+download page http://en.wikipedia.org/wiki/Numerical_analysis docID 148 size 136509 depth 0 total size: 33096364 total num: 149 Thu Feb 12 03:24:53 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-23 Thu Feb 12 03:24:53 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-23 docID 149 size 281244 depth 0 total size: 33377608 total num: 150 Thu Feb 12 03:24:53 2015
+visit url http://en.wikipedia.org/wiki/Volatility_(finance) Thu Feb 12 03:24:53 2015
+download page http://en.wikipedia.org/wiki/Volatility_(finance) docID 150 size 103504 depth 0 total size: 33481112 total num: 151 Thu Feb 12 03:24:53 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-24 Thu Feb 12 03:24:53 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-24 docID 151 size 281244 depth 0 total size: 33762356 total num: 152 Thu Feb 12 03:24:53 2015
+visit url http://en.wikipedia.org/wiki/Computer_graphics Thu Feb 12 03:24:53 2015
+download page http://en.wikipedia.org/wiki/Computer_graphics docID 152 size 196408 depth 0 total size: 33958764 total num: 153 Thu Feb 12 03:24:53 2015
+visit url http://en.wikipedia.org/wiki/Computer-generated_imagery Thu Feb 12 03:24:53 2015
+download page http://en.wikipedia.org/wiki/Computer-generated_imagery docID 153 size 79516 depth 0 total size: 34038280 total num: 154 Thu Feb 12 03:24:53 2015
+visit url http://en.wikipedia.org/wiki/Entertainment Thu Feb 12 03:24:53 2015
+download page http://en.wikipedia.org/wiki/Entertainment docID 154 size 480436 depth 0 total size: 34518716 total num: 155 Thu Feb 12 03:24:54 2015
+visit url http://en.wikipedia.org/wiki/Television Thu Feb 12 03:24:54 2015
+download page http://en.wikipedia.org/wiki/Television docID 155 size 470177 depth 0 total size: 34988893 total num: 156 Thu Feb 12 03:24:54 2015
+visit url http://en.wikipedia.org/wiki/Filmmaking Thu Feb 12 03:24:54 2015
+download page http://en.wikipedia.org/wiki/Filmmaking docID 156 size 138102 depth 0 total size: 35126995 total num: 157 Thu Feb 12 03:24:54 2015
+visit url http://en.wikipedia.org/wiki/Advertising Thu Feb 12 03:24:54 2015
+download page http://en.wikipedia.org/wiki/Advertising docID 157 size 353868 depth 0 total size: 35480863 total num: 158 Thu Feb 12 03:24:55 2015
+visit url http://en.wikipedia.org/wiki/Animation Thu Feb 12 03:24:55 2015
+download page http://en.wikipedia.org/wiki/Animation docID 158 size 169515 depth 0 total size: 35650378 total num: 159 Thu Feb 12 03:24:55 2015
+visit url http://en.wikipedia.org/wiki/Video_game Thu Feb 12 03:24:55 2015
+download page http://en.wikipedia.org/wiki/Video_game docID 159 size 275944 depth 0 total size: 35926322 total num: 160 Thu Feb 12 03:24:55 2015
+visit url http://en.wikipedia.org/wiki/Digital_camera Thu Feb 12 03:24:55 2015
+download page http://en.wikipedia.org/wiki/Digital_camera docID 160 size 230320 depth 0 total size: 36156642 total num: 161 Thu Feb 12 03:24:55 2015
+visit url http://en.wikipedia.org/wiki/Video_editing Thu Feb 12 03:24:55 2015
+download page http://en.wikipedia.org/wiki/Video_editing docID 161 size 47369 depth 0 total size: 36204011 total num: 162 Thu Feb 12 03:24:55 2015
+visit url http://en.wikipedia.org/wiki/Video_post-processing Thu Feb 12 03:24:55 2015
+download page http://en.wikipedia.org/wiki/Video_post-processing docID 162 size 34186 depth 0 total size: 36238197 total num: 163 Thu Feb 12 03:24:55 2015
+visit url http://en.wikipedia.org/wiki/Wikipedia:Citation_needed Thu Feb 12 03:24:55 2015
+download page http://en.wikipedia.org/wiki/Wikipedia:Citation_needed docID 163 size 35179 depth 0 total size: 36273376 total num: 164 Thu Feb 12 03:24:55 2015
+visit url http://en.wikipedia.org/wiki/Simulation Thu Feb 12 03:24:55 2015
+download page http://en.wikipedia.org/wiki/Simulation docID 164 size 209065 depth 0 total size: 36482441 total num: 165 Thu Feb 12 03:24:56 2015
+visit url http://en.wikipedia.org/wiki/Fluid_dynamics Thu Feb 12 03:24:56 2015
+download page http://en.wikipedia.org/wiki/Fluid_dynamics docID 165 size 143874 depth 0 total size: 36626315 total num: 166 Thu Feb 12 03:24:56 2015
+visit url http://en.wikipedia.org/wiki/SPICE Thu Feb 12 03:24:56 2015
+download page http://en.wikipedia.org/wiki/SPICE docID 166 size 80266 depth 0 total size: 36706581 total num: 167 Thu Feb 12 03:24:56 2015
+visit url http://en.wikipedia.org/wiki/Integrated_circuit Thu Feb 12 03:24:56 2015
+download page http://en.wikipedia.org/wiki/Integrated_circuit docID 167 size 185508 depth 0 total size: 36892089 total num: 168 Thu Feb 12 03:24:56 2015
+visit url http://en.wikipedia.org/wiki/Robotic_vacuum_cleaner Thu Feb 12 03:24:56 2015
+download page http://en.wikipedia.org/wiki/Robotic_vacuum_cleaner docID 168 size 42621 depth 0 total size: 36934710 total num: 169 Thu Feb 12 03:24:56 2015
+visit url http://en.wikipedia.org/wiki/Legged_Squad_Support_System Thu Feb 12 03:24:56 2015
+download page http://en.wikipedia.org/wiki/Legged_Squad_Support_System docID 169 size 56452 depth 0 total size: 36991162 total num: 170 Thu Feb 12 03:24:56 2015
+visit url http://en.wikipedia.org/wiki/Philosophy_of_computer_science Thu Feb 12 03:24:56 2015
+download page http://en.wikipedia.org/wiki/Philosophy_of_computer_science docID 170 size 67400 depth 0 total size: 37058562 total num: 171 Thu Feb 12 03:24:56 2015
+visit url http://en.wikipedia.org/wiki/Peter_Wegner Thu Feb 12 03:24:56 2015
+download page http://en.wikipedia.org/wiki/Peter_Wegner docID 171 size 45619 depth 0 total size: 37104181 total num: 172 Thu Feb 12 03:24:56 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-25 Thu Feb 12 03:24:56 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-25 docID 172 size 281244 depth 0 total size: 37385425 total num: 173 Thu Feb 12 03:24:57 2015
+visit url http://en.wikipedia.org/wiki/Peter_J._Denning Thu Feb 12 03:24:57 2015
+download page http://en.wikipedia.org/wiki/Peter_J._Denning docID 173 size 82555 depth 0 total size: 37467980 total num: 174 Thu Feb 12 03:24:57 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-26 Thu Feb 12 03:24:57 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-26 docID 174 size 281244 depth 0 total size: 37749224 total num: 175 Thu Feb 12 03:24:57 2015
+visit url http://en.wikipedia.org/wiki/Deductive_reasoning Thu Feb 12 03:24:57 2015
+download page http://en.wikipedia.org/wiki/Deductive_reasoning docID 175 size 108849 depth 0 total size: 37858073 total num: 176 Thu Feb 12 03:24:57 2015
+visit url http://en.wikipedia.org/wiki/Engineering Thu Feb 12 03:24:57 2015
+download page http://en.wikipedia.org/wiki/Engineering docID 176 size 274803 depth 0 total size: 38132876 total num: 177 Thu Feb 12 03:24:57 2015
+visit url http://en.wikipedia.org/wiki/Software_engineering Thu Feb 12 03:24:57 2015
+download page http://en.wikipedia.org/wiki/Software_engineering docID 177 size 215366 depth 0 total size: 38348242 total num: 178 Thu Feb 12 03:24:58 2015
+visit url http://en.wikipedia.org/wiki/Natural_science Thu Feb 12 03:24:58 2015
+download page http://en.wikipedia.org/wiki/Natural_science docID 178 size 182150 depth 0 total size: 38530392 total num: 179 Thu Feb 12 03:24:58 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-27 Thu Feb 12 03:24:58 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-27 docID 179 size 281244 depth 0 total size: 38811636 total num: 180 Thu Feb 12 03:24:58 2015
+visit url http://en.wikipedia.org/wiki/Communications_of_the_ACM Thu Feb 12 03:24:58 2015
+download page http://en.wikipedia.org/wiki/Communications_of_the_ACM docID 180 size 48841 depth 0 total size: 38860477 total num: 181 Thu Feb 12 03:24:58 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-28 Thu Feb 12 03:24:58 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-28 docID 181 size 281244 depth 0 total size: 39141721 total num: 182 Thu Feb 12 03:24:58 2015
+visit url http://en.wikipedia.org/wiki/Harvard_Business_School Thu Feb 12 03:24:58 2015
+download page http://en.wikipedia.org/wiki/Harvard_Business_School docID 182 size 121389 depth 0 total size: 39263110 total num: 183 Thu Feb 12 03:24:58 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-29 Thu Feb 12 03:24:58 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-29 docID 183 size 281244 depth 0 total size: 39544354 total num: 184 Thu Feb 12 03:24:59 2015
+visit url http://en.wikipedia.org/wiki/Management_science Thu Feb 12 03:24:59 2015
+download page http://en.wikipedia.org/wiki/Management_science docID 184 size 39623 depth 0 total size: 39583977 total num: 185 Thu Feb 12 03:24:59 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-30 Thu Feb 12 03:24:59 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-30 docID 185 size 281244 depth 0 total size: 39865221 total num: 186 Thu Feb 12 03:24:59 2015
+visit url http://en.wikipedia.org/wiki/George_Forsythe Thu Feb 12 03:24:59 2015
+download page http://en.wikipedia.org/wiki/George_Forsythe docID 186 size 45471 depth 0 total size: 39910692 total num: 187 Thu Feb 12 03:24:59 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-31 Thu Feb 12 03:24:59 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-31 docID 187 size 281244 depth 0 total size: 40191936 total num: 188 Thu Feb 12 03:24:59 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-32 Thu Feb 12 03:24:59 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-32 docID 188 size 281244 depth 0 total size: 40473180 total num: 189 Thu Feb 12 03:25:00 2015
+visit url http://en.wikipedia.org/wiki/Peter_Naur Thu Feb 12 03:25:00 2015
+download page http://en.wikipedia.org/wiki/Peter_Naur docID 189 size 59945 depth 0 total size: 40533125 total num: 190 Thu Feb 12 03:25:00 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-33 Thu Feb 12 03:25:00 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-33 docID 190 size 281244 depth 0 total size: 40814369 total num: 191 Thu Feb 12 03:25:00 2015
+visit url http://en.wikipedia.org/wiki/Epistemology Thu Feb 12 03:25:00 2015
+download page http://en.wikipedia.org/wiki/Epistemology docID 191 size 256323 depth 0 total size: 41070692 total num: 192 Thu Feb 12 03:25:00 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-34 Thu Feb 12 03:25:00 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-34 docID 192 size 281244 depth 0 total size: 41351936 total num: 193 Thu Feb 12 03:25:00 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-35 Thu Feb 12 03:25:00 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-35 docID 193 size 281244 depth 0 total size: 41633180 total num: 194 Thu Feb 12 03:25:00 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-36 Thu Feb 12 03:25:00 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-36 docID 194 size 281244 depth 0 total size: 41914424 total num: 195 Thu Feb 12 03:25:01 2015
+visit url http://en.wikipedia.org/wiki/Slavic_languages Thu Feb 12 03:25:01 2015
+download page http://en.wikipedia.org/wiki/Slavic_languages docID 195 size 198256 depth 0 total size: 42112680 total num: 196 Thu Feb 12 03:25:01 2015
+visit url http://en.wikipedia.org/wiki/Hungarian_language Thu Feb 12 03:25:01 2015
+download page http://en.wikipedia.org/wiki/Hungarian_language docID 196 size 253021 depth 0 total size: 42365701 total num: 197 Thu Feb 12 03:25:01 2015
+visit url http://en.wikipedia.org/wiki/Greek_language Thu Feb 12 03:25:01 2015
+download page http://en.wikipedia.org/wiki/Greek_language docID 197 size 223710 depth 0 total size: 42589411 total num: 198 Thu Feb 12 03:25:01 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-37 Thu Feb 12 03:25:01 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-37 docID 198 size 281244 depth 0 total size: 42870655 total num: 199 Thu Feb 12 03:25:02 2015
+visit url http://en.wikipedia.org/wiki/Edsger_Dijkstra Thu Feb 12 03:25:02 2015
+download page http://en.wikipedia.org/wiki/Edsger_Dijkstra docID 199 size 116239 depth 0 total size: 42986894 total num: 200 Thu Feb 12 03:25:02 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-38 Thu Feb 12 03:25:02 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-38 docID 200 size 281244 depth 0 total size: 43268138 total num: 201 Thu Feb 12 03:25:02 2015
+visit url http://en.wikipedia.org/wiki/Computer_hardware Thu Feb 12 03:25:02 2015
+download page http://en.wikipedia.org/wiki/Computer_hardware docID 201 size 83891 depth 0 total size: 43352029 total num: 202 Thu Feb 12 03:25:02 2015
+visit url http://en.wikipedia.org/wiki/Computer_engineering Thu Feb 12 03:25:02 2015
+download page http://en.wikipedia.org/wiki/Computer_engineering docID 202 size 128391 depth 0 total size: 43480420 total num: 203 Thu Feb 12 03:25:02 2015
+visit url http://en.wikipedia.org/wiki/Computer_system Thu Feb 12 03:25:02 2015
+download page http://en.wikipedia.org/wiki/Computer_system docID 203 size 306391 depth 0 total size: 43786811 total num: 204 Thu Feb 12 03:25:02 2015
+visit url http://en.wikipedia.org/wiki/Information_technology Thu Feb 12 03:25:02 2015
+download page http://en.wikipedia.org/wiki/Information_technology docID 204 size 190136 depth 0 total size: 43976947 total num: 205 Thu Feb 12 03:25:03 2015
+visit url http://en.wikipedia.org/wiki/Information_systems Thu Feb 12 03:25:03 2015
+download page http://en.wikipedia.org/wiki/Information_systems docID 205 size 141238 depth 0 total size: 44118185 total num: 206 Thu Feb 12 03:25:03 2015
+visit url http://en.wikipedia.org/wiki/Philosophy Thu Feb 12 03:25:03 2015
+download page http://en.wikipedia.org/wiki/Philosophy docID 206 size 358979 depth 0 total size: 44477164 total num: 207 Thu Feb 12 03:25:04 2015
+visit url http://en.wikipedia.org/wiki/Cognitive_science Thu Feb 12 03:25:04 2015
+download page http://en.wikipedia.org/wiki/Cognitive_science docID 207 size 128758 depth 0 total size: 44605922 total num: 208 Thu Feb 12 03:25:04 2015
+visit url http://en.wikipedia.org/wiki/Computational_linguistics Thu Feb 12 03:25:04 2015
+download page http://en.wikipedia.org/wiki/Computational_linguistics docID 208 size 114909 depth 0 total size: 44720831 total num: 209 Thu Feb 12 03:25:04 2015
+visit url http://en.wikipedia.org/wiki/Mathematics Thu Feb 12 03:25:04 2015
+download page http://en.wikipedia.org/wiki/Mathematics docID 209 size 253265 depth 0 total size: 44974096 total num: 210 Thu Feb 12 03:25:04 2015
+visit url http://en.wikipedia.org/wiki/Physics Thu Feb 12 03:25:04 2015
+download page http://en.wikipedia.org/wiki/Physics docID 210 size 307908 depth 0 total size: 45282004 total num: 211 Thu Feb 12 03:25:04 2015
+visit url http://en.wikipedia.org/wiki/Biology Thu Feb 12 03:25:04 2015
+download page http://en.wikipedia.org/wiki/Biology docID 211 size 280244 depth 0 total size: 45562248 total num: 212 Thu Feb 12 03:25:05 2015
+visit url http://en.wikipedia.org/wiki/Computational_statistics Thu Feb 12 03:25:05 2015
+download page http://en.wikipedia.org/wiki/Computational_statistics docID 212 size 45431 depth 0 total size: 45607679 total num: 213 Thu Feb 12 03:25:05 2015
+visit url http://en.wikipedia.org/wiki/Logic Thu Feb 12 03:25:05 2015
+download page http://en.wikipedia.org/wiki/Logic docID 213 size 245436 depth 0 total size: 45853115 total num: 214 Thu Feb 12 03:25:05 2015
+visit url http://en.wikipedia.org/wiki/Alan_Turing Thu Feb 12 03:25:05 2015
+download page http://en.wikipedia.org/wiki/Alan_Turing docID 214 size 425874 depth 0 total size: 46278989 total num: 215 Thu Feb 12 03:25:05 2015
+visit url http://en.wikipedia.org/wiki/Mathematical_logic Thu Feb 12 03:25:05 2015
+download page http://en.wikipedia.org/wiki/Mathematical_logic docID 215 size 218992 depth 0 total size: 46497981 total num: 216 Thu Feb 12 03:25:05 2015
+visit url http://en.wikipedia.org/wiki/Category_theory Thu Feb 12 03:25:05 2015
+download page http://en.wikipedia.org/wiki/Category_theory docID 216 size 136030 depth 0 total size: 46634011 total num: 217 Thu Feb 12 03:25:05 2015
+visit url http://en.wikipedia.org/wiki/Domain_theory Thu Feb 12 03:25:05 2015
+download page http://en.wikipedia.org/wiki/Domain_theory docID 217 size 58056 depth 0 total size: 46692067 total num: 218 Thu Feb 12 03:25:06 2015
+visit url http://en.wikipedia.org/wiki/Algebra Thu Feb 12 03:25:06 2015
+download page http://en.wikipedia.org/wiki/Algebra docID 218 size 152190 depth 0 total size: 46844257 total num: 219 Thu Feb 12 03:25:06 2015
+visit url http://en.wikipedia.org/wiki/Debates_within_software_engineering Thu Feb 12 03:25:06 2015
+download page http://en.wikipedia.org/wiki/Debates_within_software_engineering docID 219 size 108005 depth 0 total size: 46952262 total num: 220 Thu Feb 12 03:25:06 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-39 Thu Feb 12 03:25:06 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-39 docID 220 size 281244 depth 0 total size: 47233506 total num: 221 Thu Feb 12 03:25:06 2015
+visit url http://en.wikipedia.org/wiki/David_Parnas Thu Feb 12 03:25:06 2015
+download page http://en.wikipedia.org/wiki/David_Parnas docID 221 size 58605 depth 0 total size: 47292111 total num: 222 Thu Feb 12 03:25:06 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-40 Thu Feb 12 03:25:06 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-40 docID 222 size 281244 depth 0 total size: 47573355 total num: 223 Thu Feb 12 03:25:06 2015
+visit url http://en.wikipedia.org/wiki/Computational_science Thu Feb 12 03:25:06 2015
+download page http://en.wikipedia.org/wiki/Computational_science docID 223 size 63336 depth 0 total size: 47636691 total num: 224 Thu Feb 12 03:25:06 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-CSAB1997-41 Thu Feb 12 03:25:06 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-CSAB1997-41 docID 224 size 281244 depth 0 total size: 47917935 total num: 225 Thu Feb 12 03:25:07 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-42 Thu Feb 12 03:25:07 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-42 docID 225 size 281244 depth 0 total size: 48199179 total num: 226 Thu Feb 12 03:25:07 2015
+visit url http://en.wikipedia.org/wiki/CSAB_(professional_organization) Thu Feb 12 03:25:07 2015
+download page http://en.wikipedia.org/wiki/CSAB_(professional_organization) docID 226 size 37828 depth 0 total size: 48237007 total num: 227 Thu Feb 12 03:25:07 2015
+visit url http://en.wikipedia.org/wiki/Association_for_Computing_Machinery Thu Feb 12 03:25:07 2015
+download page http://en.wikipedia.org/wiki/Association_for_Computing_Machinery docID 227 size 128126 depth 0 total size: 48365133 total num: 228 Thu Feb 12 03:25:07 2015
+visit url http://en.wikipedia.org/wiki/IEEE_Computer_Society Thu Feb 12 03:25:07 2015
+download page http://en.wikipedia.org/wiki/IEEE_Computer_Society docID 228 size 60569 depth 0 total size: 48425702 total num: 229 Thu Feb 12 03:25:07 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-43 Thu Feb 12 03:25:07 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-43 docID 229 size 281244 depth 0 total size: 48706946 total num: 230 Thu Feb 12 03:25:07 2015
+visit url http://en.wikipedia.org/wiki/Theoretical_computer_science Thu Feb 12 03:25:07 2015
+download page http://en.wikipedia.org/wiki/Theoretical_computer_science docID 230 size 161697 depth 0 total size: 48868643 total num: 231 Thu Feb 12 03:25:08 2015
+visit url http://en.wikipedia.org/wiki/Theory_of_computation Thu Feb 12 03:25:08 2015
+download page http://en.wikipedia.org/wiki/Theory_of_computation docID 231 size 81663 depth 0 total size: 48950306 total num: 232 Thu Feb 12 03:25:08 2015
+visit url http://en.wikipedia.org/wiki/Computability_theory_(computer_science) Thu Feb 12 03:25:08 2015
+download page http://en.wikipedia.org/wiki/Computability_theory_(computer_science) docID 232 size 158613 depth 0 total size: 49108919 total num: 233 Thu Feb 12 03:25:08 2015
+visit url http://en.wikipedia.org/wiki/Models_of_computation Thu Feb 12 03:25:08 2015
+download page http://en.wikipedia.org/wiki/Models_of_computation docID 233 size 35844 depth 0 total size: 49144763 total num: 234 Thu Feb 12 03:25:08 2015
+visit url http://en.wikipedia.org/wiki/P_%3D_NP_problem Thu Feb 12 03:25:08 2015
+download page http://en.wikipedia.org/wiki/P_%3D_NP_problem docID 234 size 160310 depth 0 total size: 49305073 total num: 235 Thu Feb 12 03:25:08 2015
+visit url http://en.wikipedia.org/wiki/Millennium_Prize_Problems Thu Feb 12 03:25:08 2015
+download page http://en.wikipedia.org/wiki/Millennium_Prize_Problems docID 235 size 67476 depth 0 total size: 49372549 total num: 236 Thu Feb 12 03:25:08 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-44 Thu Feb 12 03:25:08 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-44 docID 236 size 281244 depth 0 total size: 49653793 total num: 237 Thu Feb 12 03:25:08 2015
+visit url http://en.wikipedia.org/wiki/Automata_theory Thu Feb 12 03:25:08 2015
+download page http://en.wikipedia.org/wiki/Automata_theory docID 237 size 106955 depth 0 total size: 49760748 total num: 238 Thu Feb 12 03:25:09 2015
+visit url http://en.wikipedia.org/wiki/Computability_theory Thu Feb 12 03:25:09 2015
+download page http://en.wikipedia.org/wiki/Computability_theory docID 238 size 158089 depth 0 total size: 49918837 total num: 239 Thu Feb 12 03:25:09 2015
+visit url http://en.wikipedia.org/wiki/Quantum_computer Thu Feb 12 03:25:09 2015
+download page http://en.wikipedia.org/wiki/Quantum_computer docID 239 size 272705 depth 0 total size: 50191542 total num: 240 Thu Feb 12 03:25:09 2015
+visit url http://en.wikipedia.org/wiki/Information_theory Thu Feb 12 03:25:09 2015
+download page http://en.wikipedia.org/wiki/Information_theory docID 240 size 180421 depth 0 total size: 50371963 total num: 241 Thu Feb 12 03:25:09 2015
+visit url http://en.wikipedia.org/wiki/Coding_theory Thu Feb 12 03:25:09 2015
+download page http://en.wikipedia.org/wiki/Coding_theory docID 241 size 84367 depth 0 total size: 50456330 total num: 242 Thu Feb 12 03:25:09 2015
+visit url http://en.wikipedia.org/wiki/Claude_Shannon Thu Feb 12 03:25:09 2015
+download page http://en.wikipedia.org/wiki/Claude_Shannon docID 242 size 229394 depth 0 total size: 50685724 total num: 243 Thu Feb 12 03:25:10 2015
+visit url http://en.wikipedia.org/wiki/Signal_processing Thu Feb 12 03:25:10 2015
+download page http://en.wikipedia.org/wiki/Signal_processing docID 243 size 61373 depth 0 total size: 50747097 total num: 244 Thu Feb 12 03:25:10 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-45 Thu Feb 12 03:25:10 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-45 docID 244 size 281244 depth 0 total size: 51028341 total num: 245 Thu Feb 12 03:25:10 2015
+visit url http://en.wikipedia.org/wiki/Code Thu Feb 12 03:25:10 2015
+download page http://en.wikipedia.org/wiki/Code docID 245 size 63826 depth 0 total size: 51092167 total num: 246 Thu Feb 12 03:25:10 2015
+visit url http://en.wikipedia.org/wiki/Data_compression Thu Feb 12 03:25:10 2015
+download page http://en.wikipedia.org/wiki/Data_compression docID 246 size 190623 depth 0 total size: 51282790 total num: 247 Thu Feb 12 03:25:10 2015
+visit url http://en.wikipedia.org/wiki/Error_detection_and_correction Thu Feb 12 03:25:10 2015
+download page http://en.wikipedia.org/wiki/Error_detection_and_correction docID 247 size 95757 depth 0 total size: 51378547 total num: 248 Thu Feb 12 03:25:10 2015
+visit url http://en.wikipedia.org/wiki/Network_coding Thu Feb 12 03:25:10 2015
+download page http://en.wikipedia.org/wiki/Network_coding docID 248 size 59726 depth 0 total size: 51438273 total num: 249 Thu Feb 12 03:25:10 2015
+visit url http://en.wikipedia.org/wiki/Data_transmission Thu Feb 12 03:25:10 2015
+download page http://en.wikipedia.org/wiki/Data_transmission docID 249 size 74350 depth 0 total size: 51512623 total num: 250 Thu Feb 12 03:25:10 2015
+visit url http://en.wikipedia.org/wiki/File:Sorting_quicksort_anim.gif Thu Feb 12 03:25:10 2015
+download page http://en.wikipedia.org/wiki/File:Sorting_quicksort_anim.gif docID 250 size 93089 depth 0 total size: 51605712 total num: 251 Thu Feb 12 03:25:10 2015
+visit url http://en.wikipedia.org/wiki/Analysis_of_algorithms Thu Feb 12 03:25:10 2015
+download page http://en.wikipedia.org/wiki/Analysis_of_algorithms docID 251 size 90910 depth 0 total size: 51696622 total num: 252 Thu Feb 12 03:25:11 2015
+visit url http://en.wikipedia.org/wiki/Data_structures Thu Feb 12 03:25:11 2015
+download page http://en.wikipedia.org/wiki/Data_structures docID 252 size 80710 depth 0 total size: 51777332 total num: 253 Thu Feb 12 03:25:11 2015
+visit url http://en.wikipedia.org/wiki/Combinatorial_optimization Thu Feb 12 03:25:11 2015
+download page http://en.wikipedia.org/wiki/Combinatorial_optimization docID 253 size 45463 depth 0 total size: 51822795 total num: 254 Thu Feb 12 03:25:11 2015
+visit url http://en.wikipedia.org/wiki/Programming_language#Elements Thu Feb 12 03:25:11 2015
+download page http://en.wikipedia.org/wiki/Programming_language#Elements docID 254 size 218549 depth 0 total size: 52041344 total num: 255 Thu Feb 12 03:25:11 2015
+visit url http://en.wikipedia.org/wiki/Linguistics Thu Feb 12 03:25:11 2015
+download page http://en.wikipedia.org/wiki/Linguistics docID 255 size 227511 depth 0 total size: 52268855 total num: 256 Thu Feb 12 03:25:11 2015
+visit url http://en.wikipedia.org/wiki/Type_theory Thu Feb 12 03:25:11 2015
+download page http://en.wikipedia.org/wiki/Type_theory docID 256 size 112111 depth 0 total size: 52380966 total num: 257 Thu Feb 12 03:25:11 2015
+visit url http://en.wikipedia.org/wiki/Compiler_design Thu Feb 12 03:25:11 2015
+download page http://en.wikipedia.org/wiki/Compiler_design docID 257 size 36255 depth 0 total size: 52417221 total num: 258 Thu Feb 12 03:25:11 2015
+visit url http://en.wikipedia.org/wiki/Programming_languages Thu Feb 12 03:25:11 2015
+download page http://en.wikipedia.org/wiki/Programming_languages docID 258 size 218978 depth 0 total size: 52636199 total num: 259 Thu Feb 12 03:25:12 2015
+visit url http://en.wikipedia.org/wiki/Formal_methods Thu Feb 12 03:25:12 2015
+download page http://en.wikipedia.org/wiki/Formal_methods docID 259 size 93682 depth 0 total size: 52729881 total num: 260 Thu Feb 12 03:25:12 2015
+visit url http://en.wikipedia.org/wiki/Mathematically Thu Feb 12 03:25:12 2015
+download page http://en.wikipedia.org/wiki/Mathematically docID 260 size 253534 depth 0 total size: 52983415 total num: 261 Thu Feb 12 03:25:12 2015
+visit url http://en.wikipedia.org/wiki/Formal_specification Thu Feb 12 03:25:12 2015
+download page http://en.wikipedia.org/wiki/Formal_specification docID 261 size 53270 depth 0 total size: 53036685 total num: 262 Thu Feb 12 03:25:12 2015
+visit url http://en.wikipedia.org/wiki/Formal_verification Thu Feb 12 03:25:12 2015
+download page http://en.wikipedia.org/wiki/Formal_verification docID 262 size 53617 depth 0 total size: 53090302 total num: 263 Thu Feb 12 03:25:12 2015
+visit url http://en.wikipedia.org/wiki/Software Thu Feb 12 03:25:12 2015
+download page http://en.wikipedia.org/wiki/Software docID 263 size 105005 depth 0 total size: 53195307 total num: 264 Thu Feb 12 03:25:12 2015
+visit url http://en.wikipedia.org/wiki/Life-critical_system Thu Feb 12 03:25:12 2015
+download page http://en.wikipedia.org/wiki/Life-critical_system docID 264 size 53420 depth 0 total size: 53248727 total num: 265 Thu Feb 12 03:25:12 2015
+visit url http://en.wikipedia.org/wiki/Safety Thu Feb 12 03:25:12 2015
+download page http://en.wikipedia.org/wiki/Safety docID 265 size 95142 depth 0 total size: 53343869 total num: 266 Thu Feb 12 03:25:13 2015
+visit url http://en.wikipedia.org/wiki/Computer_security Thu Feb 12 03:25:13 2015
+download page http://en.wikipedia.org/wiki/Computer_security docID 266 size 309088 depth 0 total size: 53652957 total num: 267 Thu Feb 12 03:25:13 2015
+visit url http://en.wikipedia.org/wiki/Logic_in_computer_science Thu Feb 12 03:25:13 2015
+download page http://en.wikipedia.org/wiki/Logic_in_computer_science docID 267 size 62738 depth 0 total size: 53715695 total num: 268 Thu Feb 12 03:25:13 2015
+visit url http://en.wikipedia.org/wiki/Formal_language Thu Feb 12 03:25:13 2015
+download page http://en.wikipedia.org/wiki/Formal_language docID 268 size 108269 depth 0 total size: 53823964 total num: 269 Thu Feb 12 03:25:13 2015
+visit url http://en.wikipedia.org/wiki/Program_semantics Thu Feb 12 03:25:13 2015
+download page http://en.wikipedia.org/wiki/Program_semantics docID 269 size 49683 depth 0 total size: 53873647 total num: 270 Thu Feb 12 03:25:13 2015
+visit url http://en.wikipedia.org/wiki/Type_systems Thu Feb 12 03:25:13 2015
+download page http://en.wikipedia.org/wiki/Type_systems docID 270 size 144643 depth 0 total size: 54018290 total num: 271 Thu Feb 12 03:25:13 2015
+visit url http://en.wikipedia.org/wiki/Algebraic_data_types Thu Feb 12 03:25:13 2015
+download page http://en.wikipedia.org/wiki/Algebraic_data_types docID 271 size 57881 depth 0 total size: 54076171 total num: 272 Thu Feb 12 03:25:13 2015
+visit url http://en.wikipedia.org/wiki/Cybernetics Thu Feb 12 03:25:13 2015
+download page http://en.wikipedia.org/wiki/Cybernetics docID 272 size 220619 depth 0 total size: 54296790 total num: 273 Thu Feb 12 03:25:14 2015
+visit url http://en.wikipedia.org/wiki/History_of_artificial_intelligence Thu Feb 12 03:25:14 2015
+download page http://en.wikipedia.org/wiki/History_of_artificial_intelligence docID 273 size 287683 depth 0 total size: 54584473 total num: 274 Thu Feb 12 03:25:14 2015
+visit url http://en.wikipedia.org/wiki/Applied_mathematics Thu Feb 12 03:25:14 2015
+download page http://en.wikipedia.org/wiki/Applied_mathematics docID 274 size 85919 depth 0 total size: 54670392 total num: 275 Thu Feb 12 03:25:14 2015
+visit url http://en.wikipedia.org/wiki/Semiotics Thu Feb 12 03:25:14 2015
+download page http://en.wikipedia.org/wiki/Semiotics docID 275 size 181617 depth 0 total size: 54852009 total num: 276 Thu Feb 12 03:25:14 2015
+visit url http://en.wikipedia.org/wiki/Electrical_engineering Thu Feb 12 03:25:14 2015
+download page http://en.wikipedia.org/wiki/Electrical_engineering docID 276 size 301733 depth 0 total size: 55153742 total num: 277 Thu Feb 12 03:25:14 2015
+visit url http://en.wikipedia.org/wiki/Philosophy_of_mind Thu Feb 12 03:25:14 2015
+download page http://en.wikipedia.org/wiki/Philosophy_of_mind docID 277 size 360725 depth 0 total size: 55514467 total num: 278 Thu Feb 12 03:25:15 2015
+visit url http://en.wikipedia.org/wiki/Neurophysiology Thu Feb 12 03:25:15 2015
+download page http://en.wikipedia.org/wiki/Neurophysiology docID 278 size 112395 depth 0 total size: 55626862 total num: 279 Thu Feb 12 03:25:15 2015
+visit url http://en.wikipedia.org/wiki/Social_intelligence Thu Feb 12 03:25:15 2015
+download page http://en.wikipedia.org/wiki/Social_intelligence docID 279 size 57251 depth 0 total size: 55684113 total num: 280 Thu Feb 12 03:25:15 2015
+visit url http://en.wikipedia.org/wiki/Robotics Thu Feb 12 03:25:15 2015
+download page http://en.wikipedia.org/wiki/Robotics docID 280 size 299949 depth 0 total size: 55984062 total num: 281 Thu Feb 12 03:25:15 2015
+visit url http://en.wikipedia.org/wiki/Software_development Thu Feb 12 03:25:15 2015
+download page http://en.wikipedia.org/wiki/Software_development docID 281 size 129319 depth 0 total size: 56113381 total num: 282 Thu Feb 12 03:25:15 2015
+visit url http://en.wikipedia.org/wiki/Turing_Test Thu Feb 12 03:25:15 2015
+download page http://en.wikipedia.org/wiki/Turing_Test docID 282 size 255245 depth 0 total size: 56368626 total num: 283 Thu Feb 12 03:25:15 2015
+visit url http://en.wikipedia.org/wiki/Computer_vision Thu Feb 12 03:25:15 2015
+download page http://en.wikipedia.org/wiki/Computer_vision docID 283 size 123263 depth 0 total size: 56491889 total num: 284 Thu Feb 12 03:25:15 2015
+visit url http://en.wikipedia.org/wiki/Image_processing Thu Feb 12 03:25:15 2015
+download page http://en.wikipedia.org/wiki/Image_processing docID 284 size 43112 depth 0 total size: 56535001 total num: 285 Thu Feb 12 03:25:16 2015
+visit url http://en.wikipedia.org/wiki/Pattern_recognition Thu Feb 12 03:25:16 2015
+download page http://en.wikipedia.org/wiki/Pattern_recognition docID 285 size 126555 depth 0 total size: 56661556 total num: 286 Thu Feb 12 03:25:16 2015
+visit url http://en.wikipedia.org/wiki/File:User-FastFission-brain.gif Thu Feb 12 03:25:16 2015
+download page http://en.wikipedia.org/wiki/File:User-FastFission-brain.gif docID 286 size 66683 depth 0 total size: 56728239 total num: 287 Thu Feb 12 03:25:16 2015
+visit url http://en.wikipedia.org/wiki/Data_mining Thu Feb 12 03:25:16 2015
+download page http://en.wikipedia.org/wiki/Data_mining docID 287 size 253102 depth 0 total size: 56981341 total num: 288 Thu Feb 12 03:25:16 2015
+visit url http://en.wikipedia.org/wiki/Evolutionary_computation Thu Feb 12 03:25:16 2015
+download page http://en.wikipedia.org/wiki/Evolutionary_computation docID 288 size 69172 depth 0 total size: 57050513 total num: 289 Thu Feb 12 03:25:16 2015
+visit url http://en.wikipedia.org/wiki/Information_retrieval Thu Feb 12 03:25:16 2015
+download page http://en.wikipedia.org/wiki/Information_retrieval docID 289 size 106086 depth 0 total size: 57156599 total num: 290 Thu Feb 12 03:25:16 2015
+visit url http://en.wikipedia.org/wiki/File:HONDA_ASIMO.jpg Thu Feb 12 03:25:16 2015
+download page http://en.wikipedia.org/wiki/File:HONDA_ASIMO.jpg docID 290 size 43816 depth 0 total size: 57200415 total num: 291 Thu Feb 12 03:25:16 2015
+visit url http://en.wikipedia.org/wiki/Knowledge_representation Thu Feb 12 03:25:16 2015
+download page http://en.wikipedia.org/wiki/Knowledge_representation docID 291 size 118611 depth 0 total size: 57319026 total num: 292 Thu Feb 12 03:25:17 2015
+visit url http://en.wikipedia.org/wiki/Natural_language_processing Thu Feb 12 03:25:17 2015
+download page http://en.wikipedia.org/wiki/Natural_language_processing docID 292 size 99856 depth 0 total size: 57418882 total num: 293 Thu Feb 12 03:25:17 2015
+visit url http://en.wikipedia.org/wiki/Medical_Image_Computing Thu Feb 12 03:25:17 2015
+download page http://en.wikipedia.org/wiki/Medical_Image_Computing docID 293 size 190601 depth 0 total size: 57609483 total num: 294 Thu Feb 12 03:25:17 2015
+visit url http://en.wikipedia.org/wiki/Computer_architecture Thu Feb 12 03:25:17 2015
+download page http://en.wikipedia.org/wiki/Computer_architecture docID 294 size 86277 depth 0 total size: 57695760 total num: 295 Thu Feb 12 03:25:17 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-46 Thu Feb 12 03:25:17 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-46 docID 295 size 281244 depth 0 total size: 57977004 total num: 296 Thu Feb 12 03:25:17 2015
+visit url http://en.wikipedia.org/wiki/Boolean_algebra Thu Feb 12 03:25:17 2015
+download page http://en.wikipedia.org/wiki/Boolean_algebra docID 296 size 201256 depth 0 total size: 58178260 total num: 297 Thu Feb 12 03:25:17 2015
+visit url http://en.wikipedia.org/wiki/Microarchitecture Thu Feb 12 03:25:17 2015
+download page http://en.wikipedia.org/wiki/Microarchitecture docID 297 size 95044 depth 0 total size: 58273304 total num: 298 Thu Feb 12 03:25:18 2015
+visit url http://en.wikipedia.org/wiki/Multiprocessing Thu Feb 12 03:25:18 2015
+download page http://en.wikipedia.org/wiki/Multiprocessing docID 298 size 81690 depth 0 total size: 58354994 total num: 299 Thu Feb 12 03:25:18 2015
+visit url http://en.wikipedia.org/wiki/File:Emp_Tables_(Database).PNG Thu Feb 12 03:25:18 2015
+download page http://en.wikipedia.org/wiki/File:Emp_Tables_(Database).PNG docID 299 size 33988 depth 0 total size: 58388982 total num: 300 Thu Feb 12 03:25:18 2015
+visit url http://en.wikipedia.org/wiki/Operating_systems Thu Feb 12 03:25:18 2015
+download page http://en.wikipedia.org/wiki/Operating_systems docID 300 size 251627 depth 0 total size: 58640609 total num: 301 Thu Feb 12 03:25:18 2015
+visit url http://en.wikipedia.org/wiki/Computer_networking Thu Feb 12 03:25:18 2015
+download page http://en.wikipedia.org/wiki/Computer_networking docID 301 size 314142 depth 0 total size: 58954751 total num: 302 Thu Feb 12 03:25:18 2015
+visit url http://en.wikipedia.org/wiki/Databases Thu Feb 12 03:25:18 2015
+download page http://en.wikipedia.org/wiki/Databases docID 302 size 202623 depth 0 total size: 59157374 total num: 303 Thu Feb 12 03:25:18 2015
+visit url http://en.wikipedia.org/wiki/Information_security Thu Feb 12 03:25:18 2015
+download page http://en.wikipedia.org/wiki/Information_security docID 303 size 182749 depth 0 total size: 59340123 total num: 304 Thu Feb 12 03:25:19 2015
+visit url http://en.wikipedia.org/wiki/File:Roomba_original.jpg Thu Feb 12 03:25:19 2015
+download page http://en.wikipedia.org/wiki/File:Roomba_original.jpg docID 304 size 41224 depth 0 total size: 59381347 total num: 305 Thu Feb 12 03:25:19 2015
+visit url http://en.wikipedia.org/wiki/Ubiquitous_computing Thu Feb 12 03:25:19 2015
+download page http://en.wikipedia.org/wiki/Ubiquitous_computing docID 305 size 103529 depth 0 total size: 59484876 total num: 306 Thu Feb 12 03:25:19 2015
+visit url http://en.wikipedia.org/wiki/Systems_architecture Thu Feb 12 03:25:19 2015
+download page http://en.wikipedia.org/wiki/Systems_architecture docID 306 size 48199 depth 0 total size: 59533075 total num: 307 Thu Feb 12 03:25:19 2015
+visit url http://en.wikipedia.org/wiki/Computer_performance Thu Feb 12 03:25:19 2015
+download page http://en.wikipedia.org/wiki/Computer_performance docID 307 size 72404 depth 0 total size: 59605479 total num: 308 Thu Feb 12 03:25:19 2015
+visit url http://en.wikipedia.org/wiki/Throughput Thu Feb 12 03:25:19 2015
+download page http://en.wikipedia.org/wiki/Throughput docID 308 size 62415 depth 0 total size: 59667894 total num: 309 Thu Feb 12 03:25:20 2015
+visit url http://en.wikipedia.org/wiki/Response_time_(technology) Thu Feb 12 03:25:20 2015
+download page http://en.wikipedia.org/wiki/Response_time_(technology) docID 309 size 33910 depth 0 total size: 59701804 total num: 310 Thu Feb 12 03:25:20 2015
+visit url http://en.wikipedia.org/wiki/Bottleneck_(disambiguation)#Computing Thu Feb 12 03:25:20 2015
+download page http://en.wikipedia.org/wiki/Bottleneck_(disambiguation)#Computing docID 310 size 30209 depth 0 total size: 59732013 total num: 311 Thu Feb 12 03:25:20 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-47 Thu Feb 12 03:25:20 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-47 docID 311 size 281244 depth 0 total size: 60013257 total num: 312 Thu Feb 12 03:25:20 2015
+visit url http://en.wikipedia.org/wiki/Special_effects Thu Feb 12 03:25:20 2015
+download page http://en.wikipedia.org/wiki/Special_effects docID 312 size 89124 depth 0 total size: 60102381 total num: 313 Thu Feb 12 03:25:20 2015
+visit url http://en.wikipedia.org/wiki/Video_games Thu Feb 12 03:25:20 2015
+download page http://en.wikipedia.org/wiki/Video_games docID 313 size 276199 depth 0 total size: 60378580 total num: 314 Thu Feb 12 03:25:20 2015
+visit url http://en.wikipedia.org/wiki/Scientific_modelling Thu Feb 12 03:25:20 2015
+download page http://en.wikipedia.org/wiki/Scientific_modelling docID 314 size 85674 depth 0 total size: 60464254 total num: 315 Thu Feb 12 03:25:21 2015
+visit url http://en.wikipedia.org/wiki/Scientific Thu Feb 12 03:25:21 2015
+download page http://en.wikipedia.org/wiki/Scientific docID 315 size 310286 depth 0 total size: 60774540 total num: 316 Thu Feb 12 03:25:21 2015
+visit url http://en.wikipedia.org/wiki/Computer_simulation Thu Feb 12 03:25:21 2015
+download page http://en.wikipedia.org/wiki/Computer_simulation docID 316 size 90105 depth 0 total size: 60864645 total num: 317 Thu Feb 12 03:25:21 2015
+visit url http://en.wikipedia.org/wiki/File:Quark_wiki.jpg Thu Feb 12 03:25:21 2015
+download page http://en.wikipedia.org/wiki/File:Quark_wiki.jpg docID 317 size 33170 depth 0 total size: 60897815 total num: 318 Thu Feb 12 03:25:21 2015
+visit url http://en.wikipedia.org/wiki/Computational_physics Thu Feb 12 03:25:21 2015
+download page http://en.wikipedia.org/wiki/Computational_physics docID 318 size 80933 depth 0 total size: 60978748 total num: 319 Thu Feb 12 03:25:21 2015
+visit url http://en.wikipedia.org/wiki/Computational_chemistry Thu Feb 12 03:25:21 2015
+download page http://en.wikipedia.org/wiki/Computational_chemistry docID 319 size 127416 depth 0 total size: 61106164 total num: 320 Thu Feb 12 03:25:21 2015
+visit url http://en.wikipedia.org/wiki/Bioinformatics Thu Feb 12 03:25:21 2015
+download page http://en.wikipedia.org/wiki/Bioinformatics docID 320 size 256517 depth 0 total size: 61362681 total num: 321 Thu Feb 12 03:25:21 2015
+visit url http://en.wikipedia.org/wiki/Computer_network Thu Feb 12 03:25:21 2015
+download page http://en.wikipedia.org/wiki/Computer_network docID 321 size 313713 depth 0 total size: 61676394 total num: 322 Thu Feb 12 03:25:22 2015
+visit url http://en.wikipedia.org/wiki/Petri_nets Thu Feb 12 03:25:22 2015
+download page http://en.wikipedia.org/wiki/Petri_nets docID 322 size 109545 depth 0 total size: 61785939 total num: 323 Thu Feb 12 03:25:22 2015
+visit url http://en.wikipedia.org/wiki/Process_calculi Thu Feb 12 03:25:22 2015
+download page http://en.wikipedia.org/wiki/Process_calculi docID 323 size 68910 depth 0 total size: 61854849 total num: 324 Thu Feb 12 03:25:22 2015
+visit url http://en.wikipedia.org/wiki/Parallel_Random_Access_Machine Thu Feb 12 03:25:22 2015
+download page http://en.wikipedia.org/wiki/Parallel_Random_Access_Machine docID 324 size 59611 depth 0 total size: 61914460 total num: 325 Thu Feb 12 03:25:22 2015
+visit url http://en.wikipedia.org/wiki/Database Thu Feb 12 03:25:22 2015
+download page http://en.wikipedia.org/wiki/Database docID 325 size 202262 depth 0 total size: 62116722 total num: 326 Thu Feb 12 03:25:22 2015
+visit url http://en.wikipedia.org/wiki/Database_management_systems Thu Feb 12 03:25:22 2015
+download page http://en.wikipedia.org/wiki/Database_management_systems docID 326 size 202707 depth 0 total size: 62319429 total num: 327 Thu Feb 12 03:25:22 2015
+visit url http://en.wikipedia.org/wiki/Database_models Thu Feb 12 03:25:22 2015
+download page http://en.wikipedia.org/wiki/Database_models docID 327 size 109171 depth 0 total size: 62428600 total num: 328 Thu Feb 12 03:25:22 2015
+visit url http://en.wikipedia.org/wiki/Query_languages Thu Feb 12 03:25:22 2015
+download page http://en.wikipedia.org/wiki/Query_languages docID 328 size 65691 depth 0 total size: 62494291 total num: 329 Thu Feb 12 03:25:23 2015
+visit url http://en.wikipedia.org/wiki/Health_Informatics Thu Feb 12 03:25:23 2015
+download page http://en.wikipedia.org/wiki/Health_Informatics docID 329 size 256054 depth 0 total size: 62750345 total num: 330 Thu Feb 12 03:25:23 2015
+visit url http://en.wikipedia.org/wiki/Information_science Thu Feb 12 03:25:23 2015
+download page http://en.wikipedia.org/wiki/Information_science docID 330 size 137056 depth 0 total size: 62887401 total num: 331 Thu Feb 12 03:25:23 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-48 Thu Feb 12 03:25:23 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-48 docID 331 size 281244 depth 0 total size: 63168645 total num: 332 Thu Feb 12 03:25:23 2015
+visit url http://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz Thu Feb 12 03:25:23 2015
+download page http://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz docID 332 size 387512 depth 0 total size: 63556157 total num: 333 Thu Feb 12 03:25:23 2015
+visit url http://en.wikipedia.org/wiki/George_Boole Thu Feb 12 03:25:23 2015
+download page http://en.wikipedia.org/wiki/George_Boole docID 333 size 153213 depth 0 total size: 63709370 total num: 334 Thu Feb 12 03:25:24 2015
+visit url http://en.wikipedia.org/wiki/Samuel_Morse Thu Feb 12 03:25:24 2015
+download page http://en.wikipedia.org/wiki/Samuel_Morse docID 334 size 246513 depth 0 total size: 63955883 total num: 335 Thu Feb 12 03:25:24 2015
+visit url http://en.wikipedia.org/wiki/Digital_physics Thu Feb 12 03:25:24 2015
+download page http://en.wikipedia.org/wiki/Digital_physics docID 335 size 97920 depth 0 total size: 64053803 total num: 336 Thu Feb 12 03:25:24 2015
+visit url http://en.wikipedia.org/wiki/Turing_machine Thu Feb 12 03:25:24 2015
+download page http://en.wikipedia.org/wiki/Turing_machine docID 336 size 164277 depth 0 total size: 64218080 total num: 337 Thu Feb 12 03:25:24 2015
+visit url http://en.wikipedia.org/wiki/Goto Thu Feb 12 03:25:24 2015
+download page http://en.wikipedia.org/wiki/Goto docID 337 size 127336 depth 0 total size: 64345416 total num: 338 Thu Feb 12 03:25:24 2015
+visit url http://en.wikipedia.org/wiki/Structured_programming Thu Feb 12 03:25:24 2015
+download page http://en.wikipedia.org/wiki/Structured_programming docID 338 size 101372 depth 0 total size: 64446788 total num: 339 Thu Feb 12 03:25:24 2015
+visit url http://en.wikipedia.org/wiki/Elementary_function_arithmetic#Friedman.27s_grand_conjecture Thu Feb 12 03:25:24 2015
+download page http://en.wikipedia.org/wiki/Elementary_function_arithmetic#Friedman.27s_grand_conjecture docID 339 size 33605 depth 0 total size: 64480393 total num: 340 Thu Feb 12 03:25:24 2015
+visit url http://en.wikipedia.org/wiki/List_of_computer_science_conferences Thu Feb 12 03:25:24 2015
+download page http://en.wikipedia.org/wiki/List_of_computer_science_conferences docID 340 size 369879 depth 0 total size: 64850272 total num: 341 Thu Feb 12 03:25:25 2015
+visit url http://en.wikipedia.org/wiki/Proceedings Thu Feb 12 03:25:25 2015
+download page http://en.wikipedia.org/wiki/Proceedings docID 341 size 30079 depth 0 total size: 64880351 total num: 342 Thu Feb 12 03:25:25 2015
+visit url http://en.wikipedia.org/wiki/Category:Computer_science_journals Thu Feb 12 03:25:25 2015
+download page http://en.wikipedia.org/wiki/Category:Computer_science_journals docID 342 size 53490 depth 0 total size: 64933841 total num: 343 Thu Feb 12 03:25:25 2015
+visit url http://en.wikipedia.org/wiki/Systems_analysis Thu Feb 12 03:25:25 2015
+download page http://en.wikipedia.org/wiki/Systems_analysis docID 343 size 54506 depth 0 total size: 64988347 total num: 344 Thu Feb 12 03:25:25 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-49 Thu Feb 12 03:25:25 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-49 docID 344 size 281244 depth 0 total size: 65269591 total num: 345 Thu Feb 12 03:25:25 2015
+visit url http://en.wikipedia.org/wiki/Secondary_school Thu Feb 12 03:25:25 2015
+download page http://en.wikipedia.org/wiki/Secondary_school docID 345 size 106467 depth 0 total size: 65376058 total num: 346 Thu Feb 12 03:25:25 2015
+visit url http://www.acm.org/runningonempty/ Thu Feb 12 03:25:25 2015
+download page http://www.acm.org/runningonempty/ docID 346 size 5406 depth 0 total size: 65381464 total num: 347 Thu Feb 12 03:25:26 2015
+visit url http://www.acm.org/ Thu Feb 12 03:25:26 2015
+download page http://www.acm.org/ docID 347 size 41264 depth 0 total size: 65422728 total num: 348 Thu Feb 12 03:25:26 2015
+visit url http://csta.acm.org/ Thu Feb 12 03:25:27 2015
+download page http://csta.acm.org/ docID 348 size 47980 depth 0 total size: 65470708 total num: 349 Thu Feb 12 03:25:27 2015
+visit url http://www.govtrack.us/congress/bill.xpd?bill=h111-5929&tab=summary Thu Feb 12 03:25:28 2015
+download page http://www.govtrack.us/congress/bill.xpd?bill=h111-5929&tab=summary docID 349 size 61539 depth 0 total size: 65532247 total num: 350 Thu Feb 12 03:25:32 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-50 Thu Feb 12 03:25:32 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-50 docID 350 size 281244 depth 0 total size: 65813491 total num: 351 Thu Feb 12 03:25:32 2015
+visit url http://en.wikipedia.org/wiki/Advanced_Placement Thu Feb 12 03:25:32 2015
+download page http://en.wikipedia.org/wiki/Advanced_Placement docID 351 size 84621 depth 0 total size: 65898112 total num: 352 Thu Feb 12 03:25:32 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-51 Thu Feb 12 03:25:32 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-51 docID 352 size 281244 depth 0 total size: 66179356 total num: 353 Thu Feb 12 03:25:33 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-52 Thu Feb 12 03:25:33 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-52 docID 353 size 281244 depth 0 total size: 66460600 total num: 354 Thu Feb 12 03:25:33 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-53 Thu Feb 12 03:25:33 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-53 docID 354 size 281244 depth 0 total size: 66741844 total num: 355 Thu Feb 12 03:25:34 2015
+visit url http://en.wikipedia.org/wiki/Mother_Jones_(magazine) Thu Feb 12 03:25:34 2015
+download page http://en.wikipedia.org/wiki/Mother_Jones_(magazine) docID 355 size 87685 depth 0 total size: 66829529 total num: 356 Thu Feb 12 03:25:34 2015
+visit url http://en.wikipedia.org/wiki/Common_Core_State_Standards_Initiative Thu Feb 12 03:25:34 2015
+download page http://en.wikipedia.org/wiki/Common_Core_State_Standards_Initiative docID 356 size 178870 depth 0 total size: 67008399 total num: 357 Thu Feb 12 03:25:34 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_note-54 Thu Feb 12 03:25:34 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_note-54 docID 357 size 281244 depth 0 total size: 67289643 total num: 358 Thu Feb 12 03:25:34 2015
+visit url http://en.wikipedia.org/wiki/Outline_of_computer_science Thu Feb 12 03:25:34 2015
+download page http://en.wikipedia.org/wiki/Outline_of_computer_science docID 358 size 61663 depth 0 total size: 67351306 total num: 359 Thu Feb 12 03:25:34 2015
+visit url http://en.wikipedia.org/wiki/File:Internet_map_1024.jpg Thu Feb 12 03:25:34 2015
+download page http://en.wikipedia.org/wiki/File:Internet_map_1024.jpg docID 359 size 99625 depth 0 total size: 67450931 total num: 360 Thu Feb 12 03:25:34 2015
+visit url http://en.wikipedia.org/wiki/Portal:Computer_science Thu Feb 12 03:25:34 2015
+download page http://en.wikipedia.org/wiki/Portal:Computer_science docID 360 size 91314 depth 0 total size: 67542245 total num: 361 Thu Feb 12 03:25:35 2015
+visit url http://en.wikipedia.org/wiki/Academic_genealogy_of_computer_scientists Thu Feb 12 03:25:35 2015
+download page http://en.wikipedia.org/wiki/Academic_genealogy_of_computer_scientists docID 361 size 136304 depth 0 total size: 67678549 total num: 362 Thu Feb 12 03:25:35 2015
+visit url http://en.wikipedia.org/wiki/Informatics_(academic_field) Thu Feb 12 03:25:35 2015
+download page http://en.wikipedia.org/wiki/Informatics_(academic_field) docID 362 size 73535 depth 0 total size: 67752084 total num: 363 Thu Feb 12 03:25:35 2015
+visit url http://en.wikipedia.org/wiki/List_of_academic_computer_science_departments Thu Feb 12 03:25:35 2015
+download page http://en.wikipedia.org/wiki/List_of_academic_computer_science_departments docID 363 size 131976 depth 0 total size: 67884060 total num: 364 Thu Feb 12 03:25:35 2015
+visit url http://en.wikipedia.org/wiki/List_of_computer_scientists Thu Feb 12 03:25:35 2015
+download page http://en.wikipedia.org/wiki/List_of_computer_scientists docID 364 size 139615 depth 0 total size: 68023675 total num: 365 Thu Feb 12 03:25:35 2015
+visit url http://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science Thu Feb 12 03:25:35 2015
+download page http://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science docID 365 size 214499 depth 0 total size: 68238174 total num: 366 Thu Feb 12 03:25:35 2015
+visit url http://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science Thu Feb 12 03:25:35 2015
+download page http://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science docID 366 size 59004 depth 0 total size: 68297178 total num: 367 Thu Feb 12 03:25:35 2015
+visit url http://en.wikipedia.org/wiki/Technology_transfer_in_computer_science Thu Feb 12 03:25:35 2015
+download page http://en.wikipedia.org/wiki/Technology_transfer_in_computer_science docID 367 size 45280 depth 0 total size: 68342458 total num: 368 Thu Feb 12 03:25:36 2015
+visit url http://en.wikipedia.org/wiki/List_of_software_engineering_topics Thu Feb 12 03:25:36 2015
+download page http://en.wikipedia.org/wiki/List_of_software_engineering_topics docID 368 size 126905 depth 0 total size: 68469363 total num: 369 Thu Feb 12 03:25:36 2015
+visit url http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_computer_science Thu Feb 12 03:25:36 2015
+download page http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_computer_science docID 369 size 35587 depth 0 total size: 68504950 total num: 370 Thu Feb 12 03:25:36 2015
+visit url http://en.wikipedia.org/wiki/Women_in_computing Thu Feb 12 03:25:36 2015
+download page http://en.wikipedia.org/wiki/Women_in_computing docID 370 size 219481 depth 0 total size: 68724431 total num: 371 Thu Feb 12 03:25:36 2015
+visit url http://en.wikipedia.org/wiki/Book:Computer_science Thu Feb 12 03:25:36 2015
+download page http://en.wikipedia.org/wiki/Book:Computer_science docID 371 size 26667 depth 0 total size: 68751098 total num: 372 Thu Feb 12 03:25:36 2015
+visit url http://en.wikipedia.org/wiki/Wikipedia:Books Thu Feb 12 03:25:36 2015
+download page http://en.wikipedia.org/wiki/Wikipedia:Books docID 372 size 39246 depth 0 total size: 68790344 total num: 373 Thu Feb 12 03:25:36 2015
+visit url http://en.wikipedia.org/wiki/Ibid. Thu Feb 12 03:25:36 2015
+download page http://en.wikipedia.org/wiki/Ibid. docID 373 size 34869 depth 0 total size: 68825213 total num: 374 Thu Feb 12 03:25:36 2015
+visit url http://en.wikipedia.org/wiki/Loc._cit. Thu Feb 12 03:25:36 2015
+download page http://en.wikipedia.org/wiki/Loc._cit. docID 374 size 24174 depth 0 total size: 68849387 total num: 375 Thu Feb 12 03:25:36 2015
+visit url http://en.wikipedia.org/wiki/Idem Thu Feb 12 03:25:36 2015
+download page http://en.wikipedia.org/wiki/Idem docID 375 size 25505 depth 0 total size: 68874892 total num: 376 Thu Feb 12 03:25:36 2015
+visit url http://en.wikipedia.org/wiki/Wikipedia:Footnotes#Style_recommendations Thu Feb 12 03:25:36 2015
+download page http://en.wikipedia.org/wiki/Wikipedia:Footnotes#Style_recommendations docID 376 size 148899 depth 0 total size: 69023791 total num: 377 Thu Feb 12 03:25:36 2015
+visit url http://en.wikipedia.org/wiki/Wikipedia:Footnotes#Naming_a_ref_tag_so_it_can_be_used_more_than_once Thu Feb 12 03:25:36 2015
+download page http://en.wikipedia.org/wiki/Wikipedia:Footnotes#Naming_a_ref_tag_so_it_can_be_used_more_than_once docID 377 size 148899 depth 0 total size: 69172690 total num: 378 Thu Feb 12 03:25:37 2015
+visit url http://en.wikipedia.org/wiki/Template:Refref Thu Feb 12 03:25:37 2015
+download page http://en.wikipedia.org/wiki/Template:Refref docID 378 size 34953 depth 0 total size: 69207643 total num: 379 Thu Feb 12 03:25:37 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-38 Thu Feb 12 03:25:37 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-38 docID 379 size 281244 depth 0 total size: 69488887 total num: 380 Thu Feb 12 03:25:37 2015
+visit url http://en.wikiquote.org/wiki/Computer_science Thu Feb 12 03:25:37 2015
+download page http://en.wikiquote.org/wiki/Computer_science docID 380 size 44002 depth 0 total size: 69532889 total num: 381 Thu Feb 12 03:25:37 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-1 Thu Feb 12 03:25:37 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-1 docID 381 size 281244 depth 0 total size: 69814133 total num: 382 Thu Feb 12 03:25:37 2015
+visit url http://www.cs.bu.edu/AboutCS/WhatIsCS.pdf Thu Feb 12 03:25:38 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-2 Thu Feb 12 03:25:38 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-2 docID 382 size 281244 depth 0 total size: 70095377 total num: 383 Thu Feb 12 03:25:38 2015
+visit url http://wordnetweb.princeton.edu/perl/webwn?s=computer%20scientist Thu Feb 12 03:25:38 2015
+download page http://wordnetweb.princeton.edu/perl/webwn?s=computer%20scientist docID 383 size 4020 depth 0 total size: 70099397 total num: 384 Thu Feb 12 03:25:39 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-3 Thu Feb 12 03:25:39 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-3 docID 384 size 281244 depth 0 total size: 70380641 total num: 385 Thu Feb 12 03:25:39 2015
+visit url http://www-history.mcs.st-andrews.ac.uk/Biographies/Pascal.html Thu Feb 12 03:25:40 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-4 Thu Feb 12 03:25:40 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-4 docID 385 size 281244 depth 0 total size: 70661885 total num: 386 Thu Feb 12 03:25:40 2015
+visit url http://blogs.royalsociety.org/history-of-science/2012/06/25/history-of-computing/ Thu Feb 12 03:25:41 2015
+download page http://blogs.royalsociety.org/history-of-science/2012/06/25/history-of-computing/ docID 386 size 25360 depth 0 total size: 70687245 total num: 387 Thu Feb 12 03:25:42 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-5 Thu Feb 12 03:25:42 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-5 docID 387 size 281244 depth 0 total size: 70968489 total num: 388 Thu Feb 12 03:25:42 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-6 Thu Feb 12 03:25:42 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-6 docID 388 size 281244 depth 0 total size: 71249733 total num: 389 Thu Feb 12 03:25:42 2015
+visit url http://www.sciencemuseum.org.uk/on-line/babbage/index.asp Thu Feb 12 03:25:44 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-7 Thu Feb 12 03:25:44 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-7 docID 389 size 281244 depth 0 total size: 71530977 total num: 390 Thu Feb 12 03:25:44 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-8 Thu Feb 12 03:25:44 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-8 docID 390 size 281244 depth 0 total size: 71812221 total num: 391 Thu Feb 12 03:25:44 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#COLLIER Thu Feb 12 03:25:44 2015
+download page http://en.wikipedia.org/wiki/Computer_science#COLLIER docID 391 size 281244 depth 0 total size: 72093465 total num: 392 Thu Feb 12 03:25:45 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-9 Thu Feb 12 03:25:45 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-9 docID 392 size 281244 depth 0 total size: 72374709 total num: 393 Thu Feb 12 03:25:45 2015
+visit url http://www.scottlan.edu/Lriddle/women/ada-love.htm Thu Feb 12 03:25:46 2015
+download page http://www.scottlan.edu/Lriddle/women/ada-love.htm docID 393 size 46756 depth 0 total size: 72421465 total num: 394 Thu Feb 12 03:25:47 2015
+visit url http://en.wikipedia.org/wiki/Wikipedia:Link_rot Thu Feb 12 03:25:47 2015
+download page http://en.wikipedia.org/wiki/Wikipedia:Link_rot docID 394 size 119800 depth 0 total size: 72541265 total num: 395 Thu Feb 12 03:25:47 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-10 Thu Feb 12 03:25:47 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-10 docID 395 size 281244 depth 0 total size: 72822509 total num: 396 Thu Feb 12 03:25:47 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#AIKEN Thu Feb 12 03:25:47 2015
+download page http://en.wikipedia.org/wiki/Computer_science#AIKEN docID 396 size 281244 depth 0 total size: 73103753 total num: 397 Thu Feb 12 03:25:47 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-11 Thu Feb 12 03:25:47 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-11 docID 397 size 281244 depth 0 total size: 73384997 total num: 398 Thu Feb 12 03:25:48 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#ORIGINS Thu Feb 12 03:25:48 2015
+download page http://en.wikipedia.org/wiki/Computer_science#ORIGINS docID 398 size 281244 depth 0 total size: 73666241 total num: 399 Thu Feb 12 03:25:48 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-12 Thu Feb 12 03:25:48 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-12 docID 399 size 281244 depth 0 total size: 73947485 total num: 400 Thu Feb 12 03:25:48 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-Denning_cs_discipline_13-0 Thu Feb 12 03:25:48 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-Denning_cs_discipline_13-0 docID 400 size 281244 depth 0 total size: 74228729 total num: 401 Thu Feb 12 03:25:48 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-Denning_cs_discipline_13-1 Thu Feb 12 03:25:48 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-Denning_cs_discipline_13-1 docID 401 size 281244 depth 0 total size: 74509973 total num: 402 Thu Feb 12 03:25:48 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-Denning_cs_discipline_13-2 Thu Feb 12 03:25:48 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-Denning_cs_discipline_13-2 docID 402 size 281244 depth 0 total size: 74791217 total num: 403 Thu Feb 12 03:25:49 2015
+visit url http://www.idi.ntnu.no/emner/dif8916/denning.pdf Thu Feb 12 03:25:50 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-14 Thu Feb 12 03:25:50 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-14 docID 403 size 281244 depth 0 total size: 75072461 total num: 404 Thu Feb 12 03:25:50 2015
+visit url http://www.cl.cam.ac.uk/conference/EDSAC99/statistics.html Thu Feb 12 03:25:50 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-15 Thu Feb 12 03:25:51 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-15 docID 404 size 281244 depth 0 total size: 75353705 total num: 405 Thu Feb 12 03:25:51 2015
+visit url http://www.cs.purdue.edu/about/conte.html Thu Feb 12 03:25:52 2015
+download page http://www.cs.purdue.edu/about/conte.html docID 405 size 16877 depth 0 total size: 75370582 total num: 406 Thu Feb 12 03:25:52 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-Levy1984_16-0 Thu Feb 12 03:25:52 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-Levy1984_16-0 docID 406 size 281244 depth 0 total size: 75651826 total num: 407 Thu Feb 12 03:25:52 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-Levy1984_16-1 Thu Feb 12 03:25:52 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-Levy1984_16-1 docID 407 size 281244 depth 0 total size: 75933070 total num: 408 Thu Feb 12 03:25:53 2015
+visit url http://en.wikipedia.org/wiki/Steven_Levy Thu Feb 12 03:25:53 2015
+download page http://en.wikipedia.org/wiki/Steven_Levy docID 408 size 41051 depth 0 total size: 75974121 total num: 409 Thu Feb 12 03:25:53 2015
+visit url http://en.wikipedia.org/wiki/Hackers:_Heroes_of_the_Computer_Revolution Thu Feb 12 03:25:53 2015
+download page http://en.wikipedia.org/wiki/Hackers:_Heroes_of_the_Computer_Revolution docID 409 size 86621 depth 0 total size: 76060742 total num: 410 Thu Feb 12 03:25:53 2015
+visit url http://en.wikipedia.org/wiki/International_Standard_Book_Number Thu Feb 12 03:25:53 2015
+download page http://en.wikipedia.org/wiki/International_Standard_Book_Number docID 410 size 161113 depth 0 total size: 76221855 total num: 411 Thu Feb 12 03:25:53 2015
+visit url http://en.wikipedia.org/wiki/Special:BookSources/0-385-19195-2 Thu Feb 12 03:25:53 2015
+download page http://en.wikipedia.org/wiki/Special:BookSources/0-385-19195-2 docID 411 size 320805 depth 0 total size: 76542660 total num: 412 Thu Feb 12 03:25:55 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-17 Thu Feb 12 03:25:55 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-17 docID 412 size 281244 depth 0 total size: 76823904 total num: 413 Thu Feb 12 03:25:55 2015
+visit url http://www.computerhistory.org/revolution/computer-graphics-music-and-art/15/222/633 Thu Feb 12 03:25:56 2015
+download page http://www.computerhistory.org/revolution/computer-graphics-music-and-art/15/222/633 docID 413 size 8618 depth 0 total size: 76832522 total num: 414 Thu Feb 12 03:25:56 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-18 Thu Feb 12 03:25:56 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-18 docID 414 size 281244 depth 0 total size: 77113766 total num: 415 Thu Feb 12 03:25:56 2015
+visit url http://archive.computerhistory.org/resources/text/IBM/IBM.709.1957.102646304.pdf Thu Feb 12 03:25:57 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-kahnbook_19-0 Thu Feb 12 03:25:57 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-kahnbook_19-0 docID 415 size 281244 depth 0 total size: 77395010 total num: 416 Thu Feb 12 03:25:57 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-kahnbook_19-1 Thu Feb 12 03:25:57 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-kahnbook_19-1 docID 416 size 281244 depth 0 total size: 77676254 total num: 417 Thu Feb 12 03:25:57 2015
+visit url http://en.wikipedia.org/wiki/David_Kahn_(writer) Thu Feb 12 03:25:57 2015
+download page http://en.wikipedia.org/wiki/David_Kahn_(writer) docID 417 size 70207 depth 0 total size: 77746461 total num: 418 Thu Feb 12 03:25:57 2015
+visit url http://en.wikipedia.org/wiki/The_Codebreakers Thu Feb 12 03:25:57 2015
+download page http://en.wikipedia.org/wiki/The_Codebreakers docID 418 size 31762 depth 0 total size: 77778223 total num: 419 Thu Feb 12 03:25:57 2015
+visit url http://en.wikipedia.org/wiki/Special:BookSources/0684831309 Thu Feb 12 03:25:57 2015
+download page http://en.wikipedia.org/wiki/Special:BookSources/0684831309 docID 419 size 320766 depth 0 total size: 78098989 total num: 420 Thu Feb 12 03:25:59 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-bgu_20-0 Thu Feb 12 03:25:59 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-bgu_20-0 docID 420 size 281244 depth 0 total size: 78380233 total num: 421 Thu Feb 12 03:25:59 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-bgu_20-1 Thu Feb 12 03:25:59 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-bgu_20-1 docID 421 size 281244 depth 0 total size: 78661477 total num: 422 Thu Feb 12 03:25:59 2015
+visit url http://www.cis.cornell.edu/Dean/Presentations/Slides/bgu.pdf Thu Feb 12 03:26:00 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-21 Thu Feb 12 03:26:01 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-21 docID 422 size 281244 depth 0 total size: 78942721 total num: 423 Thu Feb 12 03:26:01 2015
+visit url http://www.cs.cornell.edu/cis-dean/bgu.pdf Thu Feb 12 03:26:01 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-22 Thu Feb 12 03:26:01 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-22 docID 423 size 281244 depth 0 total size: 79223965 total num: 424 Thu Feb 12 03:26:01 2015
+visit url http://en.wikipedia.org/wiki/Hal_Abelson Thu Feb 12 03:26:01 2015
+download page http://en.wikipedia.org/wiki/Hal_Abelson docID 424 size 77945 depth 0 total size: 79301910 total num: 425 Thu Feb 12 03:26:01 2015
+visit url http://en.wikipedia.org/wiki/Special:BookSources/0-262-01153-0 Thu Feb 12 03:26:01 2015
+download page http://en.wikipedia.org/wiki/Special:BookSources/0-262-01153-0 docID 425 size 320806 depth 0 total size: 79622716 total num: 426 Thu Feb 12 03:26:03 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-23 Thu Feb 12 03:26:03 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-23 docID 426 size 281244 depth 0 total size: 79903960 total num: 427 Thu Feb 12 03:26:03 2015
+visit url http://www.telegraph.co.uk/money/main.jhtml?xml=/money/2006/08/27/ccsoft27.xml Thu Feb 12 03:26:03 2015
+download page http://www.telegraph.co.uk/money/main.jhtml?xml=/money/2006/08/27/ccsoft27.xml docID 427 size 147337 depth 0 total size: 80051297 total num: 428 Thu Feb 12 03:26:05 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-24 Thu Feb 12 03:26:05 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-24 docID 428 size 281244 depth 0 total size: 80332541 total num: 429 Thu Feb 12 03:26:05 2015
+visit url http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1686004 Thu Feb 12 03:26:05 2015
+download page http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1686004 docID 429 size 65250 depth 0 total size: 80397791 total num: 430 Thu Feb 12 03:26:07 2015
+visit url http://en.wikipedia.org/wiki/Digital_object_identifier Thu Feb 12 03:26:07 2015
+download page http://en.wikipedia.org/wiki/Digital_object_identifier docID 430 size 127400 depth 0 total size: 80525191 total num: 431 Thu Feb 12 03:26:07 2015
+visit url http://dx.doi.org/10.2139%2Fssrn.1686004 Thu Feb 12 03:26:08 2015
+download page http://dx.doi.org/10.2139%2Fssrn.1686004 docID 431 size 65250 depth 0 total size: 80590441 total num: 432 Thu Feb 12 03:26:09 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-25 Thu Feb 12 03:26:09 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-25 docID 432 size 281244 depth 0 total size: 80871685 total num: 433 Thu Feb 12 03:26:09 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-26 Thu Feb 12 03:26:09 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-26 docID 433 size 281244 depth 0 total size: 81152929 total num: 434 Thu Feb 12 03:26:10 2015
+visit url http://dx.doi.org/10.1145%2F63238.63239 Thu Feb 12 03:26:10 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-27 Thu Feb 12 03:26:11 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-27 docID 434 size 281244 depth 0 total size: 81434173 total num: 435 Thu Feb 12 03:26:11 2015
+visit url http://www.eden-study.org/articles/2007/three_paradigms_of_computer_science.pdf Thu Feb 12 03:26:12 2015
+visit url http://en.wikipedia.org/wiki/Minds_and_Machines Thu Feb 12 03:26:12 2015
+download page http://en.wikipedia.org/wiki/Minds_and_Machines docID 435 size 42648 depth 0 total size: 81476821 total num: 436 Thu Feb 12 03:26:12 2015
+visit url http://dx.doi.org/10.1007%2Fs11023-007-9060-8 Thu Feb 12 03:26:12 2015
+download page http://dx.doi.org/10.1007%2Fs11023-007-9060-8 docID 436 size 59296 depth 0 total size: 81536117 total num: 437 Thu Feb 12 03:26:13 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-28 Thu Feb 12 03:26:13 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-28 docID 437 size 281244 depth 0 total size: 81817361 total num: 438 Thu Feb 12 03:26:13 2015
+visit url http://dx.doi.org/10.1145%2F368424.368427 Thu Feb 12 03:26:13 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-29 Thu Feb 12 03:26:13 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-29 docID 438 size 281244 depth 0 total size: 82098605 total num: 439 Thu Feb 12 03:26:13 2015
+visit url http://library.stanford.edu/guides/stanford-university-oral-history Thu Feb 12 03:26:14 2015
+download page http://library.stanford.edu/guides/stanford-university-oral-history docID 439 size 54061 depth 0 total size: 82152666 total num: 440 Thu Feb 12 03:26:15 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-30 Thu Feb 12 03:26:15 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-30 docID 440 size 281244 depth 0 total size: 82433910 total num: 441 Thu Feb 12 03:26:16 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-31 Thu Feb 12 03:26:16 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-31 docID 441 size 281244 depth 0 total size: 82715154 total num: 442 Thu Feb 12 03:26:16 2015
+visit url http://en.wikipedia.org/wiki/Donald_Knuth Thu Feb 12 03:26:16 2015
+download page http://en.wikipedia.org/wiki/Donald_Knuth docID 442 size 277187 depth 0 total size: 82992341 total num: 443 Thu Feb 12 03:26:16 2015
+visit url http://www.stanford.edu/dept/ICME/docs/history/forsythe_knuth.pdf Thu Feb 12 03:26:17 2015
+download page http://www.stanford.edu/dept/ICME/docs/history/forsythe_knuth.pdf docID 443 size 23215 depth 0 total size: 83015556 total num: 444 Thu Feb 12 03:26:18 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-32 Thu Feb 12 03:26:18 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-32 docID 444 size 281244 depth 0 total size: 83296800 total num: 445 Thu Feb 12 03:26:18 2015
+visit url http://epublications.uef.fi/pub/urn_isbn_952-458-867-6/urn_isbn_952-458-867-6.pdf Thu Feb 12 03:26:19 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-33 Thu Feb 12 03:26:19 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-33 docID 445 size 281244 depth 0 total size: 83578044 total num: 446 Thu Feb 12 03:26:19 2015
+visit url http://dx.doi.org/10.1145%2F365719.366510 Thu Feb 12 03:26:19 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-34 Thu Feb 12 03:26:19 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-34 docID 446 size 281244 depth 0 total size: 83859288 total num: 447 Thu Feb 12 03:26:19 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-35 Thu Feb 12 03:26:19 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-35 docID 447 size 281244 depth 0 total size: 84140532 total num: 448 Thu Feb 12 03:26:20 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-36 Thu Feb 12 03:26:20 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-36 docID 448 size 281244 depth 0 total size: 84421776 total num: 449 Thu Feb 12 03:26:20 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-37 Thu Feb 12 03:26:20 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-37 docID 449 size 281244 depth 0 total size: 84703020 total num: 450 Thu Feb 12 03:26:20 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-39 Thu Feb 12 03:26:20 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-39 docID 450 size 281244 depth 0 total size: 84984264 total num: 451 Thu Feb 12 03:26:20 2015
+visit url http://dx.doi.org/10.1007%2Fs11023-011-9240-4 Thu Feb 12 03:26:20 2015
+download page http://dx.doi.org/10.1007%2Fs11023-011-9240-4 docID 451 size 75625 depth 0 total size: 85059889 total num: 452 Thu Feb 12 03:26:21 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-40 Thu Feb 12 03:26:21 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-40 docID 452 size 281244 depth 0 total size: 85341133 total num: 453 Thu Feb 12 03:26:21 2015
+visit url http://dx.doi.org/10.1023%2FA%3A1018949113292 Thu Feb 12 03:26:21 2015
+download page http://dx.doi.org/10.1023%2FA%3A1018949113292 docID 453 size 37099 depth 0 total size: 85378232 total num: 454 Thu Feb 12 03:26:22 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-CSAB1997_41-0 Thu Feb 12 03:26:22 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-CSAB1997_41-0 docID 454 size 281244 depth 0 total size: 85659476 total num: 455 Thu Feb 12 03:26:22 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-CSAB1997_41-1 Thu Feb 12 03:26:22 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-CSAB1997_41-1 docID 455 size 281244 depth 0 total size: 85940720 total num: 456 Thu Feb 12 03:26:23 2015
+visit url http://www.csab.org/comp_sci_profession.html Thu Feb 12 03:26:23 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-42 Thu Feb 12 03:26:23 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-42 docID 456 size 281244 depth 0 total size: 86221964 total num: 457 Thu Feb 12 03:26:23 2015
+visit url http://www.nap.edu/catalog.php?record_id=11106#toc Thu Feb 12 03:26:24 2015
+download page http://www.nap.edu/catalog.php?record_id=11106#toc docID 457 size 67362 depth 0 total size: 86289326 total num: 458 Thu Feb 12 03:26:25 2015
+visit url http://en.wikipedia.org/wiki/Special:BookSources/978-0-309-09301-9 Thu Feb 12 03:26:25 2015
+download page http://en.wikipedia.org/wiki/Special:BookSources/978-0-309-09301-9 docID 458 size 323108 depth 0 total size: 86612434 total num: 459 Thu Feb 12 03:26:26 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-43 Thu Feb 12 03:26:26 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-43 docID 459 size 281244 depth 0 total size: 86893678 total num: 460 Thu Feb 12 03:26:27 2015
+visit url http://www.csab.org/ Thu Feb 12 03:26:27 2015
+download page http://www.csab.org/ docID 460 size 19483 depth 0 total size: 86913161 total num: 461 Thu Feb 12 03:26:27 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-44 Thu Feb 12 03:26:27 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-44 docID 461 size 281244 depth 0 total size: 87194405 total num: 462 Thu Feb 12 03:26:27 2015
+visit url http://www.claymath.org/millennium/P_vs_NP/ Thu Feb 12 03:26:28 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-45 Thu Feb 12 03:26:28 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-45 docID 462 size 281244 depth 0 total size: 87475649 total num: 463 Thu Feb 12 03:26:28 2015
+visit url http://www.scientificamerican.com/article.cfm?id=claude-e-shannon-founder Thu Feb 12 03:26:29 2015
+download page http://www.scientificamerican.com/article.cfm?id=claude-e-shannon-founder docID 463 size 71398 depth 0 total size: 87547047 total num: 464 Thu Feb 12 03:26:30 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-46 Thu Feb 12 03:26:30 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-46 docID 464 size 281244 depth 0 total size: 87828291 total num: 465 Thu Feb 12 03:26:30 2015
+visit url http://galton.uchicago.edu/~thisted/Distribute/comparch.pdf Thu Feb 12 03:26:30 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-47 Thu Feb 12 03:26:31 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-47 docID 465 size 281244 depth 0 total size: 88109535 total num: 466 Thu Feb 12 03:26:31 2015
+visit url http://en.wikipedia.org/wiki/CreateSpace Thu Feb 12 03:26:31 2015
+download page http://en.wikipedia.org/wiki/CreateSpace docID 466 size 590666 depth 0 total size: 88700201 total num: 467 Thu Feb 12 03:26:31 2015
+visit url http://en.wikipedia.org/wiki/Special:BookSources/1482657759 Thu Feb 12 03:26:31 2015
+download page http://en.wikipedia.org/wiki/Special:BookSources/1482657759 docID 467 size 320764 depth 0 total size: 89020965 total num: 468 Thu Feb 12 03:26:32 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-48 Thu Feb 12 03:26:32 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-48 docID 468 size 281244 depth 0 total size: 89302209 total num: 469 Thu Feb 12 03:26:33 2015
+visit url http://www.cse.buffalo.edu/~rapaport/computation.html Thu Feb 12 03:26:33 2015
+download page http://www.cse.buffalo.edu/~rapaport/computation.html docID 469 size 15621 depth 0 total size: 89317830 total num: 470 Thu Feb 12 03:26:33 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-49 Thu Feb 12 03:26:33 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-49 docID 470 size 281244 depth 0 total size: 89599074 total num: 471 Thu Feb 12 03:26:33 2015
+visit url http://www.acm.org/education/curricula-recommendations Thu Feb 12 03:26:33 2015
+download page http://www.acm.org/education/curricula-recommendations docID 471 size 31117 depth 0 total size: 89630191 total num: 472 Thu Feb 12 03:26:34 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-50 Thu Feb 12 03:26:34 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-50 docID 472 size 281244 depth 0 total size: 89911435 total num: 473 Thu Feb 12 03:26:34 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-51 Thu Feb 12 03:26:34 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-51 docID 473 size 281244 depth 0 total size: 90192679 total num: 474 Thu Feb 12 03:26:34 2015
+visit url http://news.cnet.com/2008-1082-833090.html Thu Feb 12 03:26:39 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-52 Thu Feb 12 03:26:43 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-52 docID 474 size 281244 depth 0 total size: 90473923 total num: 475 Thu Feb 12 03:26:43 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-53 Thu Feb 12 03:26:44 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-53 docID 475 size 281244 depth 0 total size: 90755167 total num: 476 Thu Feb 12 03:26:44 2015
+visit url http://en.wikipedia.org/wiki/Computer_science#cite_ref-54 Thu Feb 12 03:26:44 2015
+download page http://en.wikipedia.org/wiki/Computer_science#cite_ref-54 docID 476 size 281244 depth 0 total size: 91036411 total num: 477 Thu Feb 12 03:26:44 2015
+visit url http://www.motherjones.com/media/2014/06/computer-science-programming-code-diversity-sexism-education Thu Feb 12 03:26:44 2015
+download page http://www.motherjones.com/media/2014/06/computer-science-programming-code-diversity-sexism-education docID 477 size 142273 depth 0 total size: 91178684 total num: 478 Thu Feb 12 03:26:44 2015
+visit url http://en.wikipedia.org/wiki/Special:BookSources/1-58488-360-X Thu Feb 12 03:26:44 2015
+download page http://en.wikipedia.org/wiki/Special:BookSources/1-58488-360-X docID 478 size 320803 depth 0 total size: 91499487 total num: 479 Thu Feb 12 03:26:46 2015
+visit url http://en.wikipedia.org/wiki/Zentralblatt_MATH Thu Feb 12 03:26:46 2015
+download page http://en.wikipedia.org/wiki/Zentralblatt_MATH docID 479 size 34003 depth 0 total size: 91533490 total num: 480 Thu Feb 12 03:26:46 2015
+visit url http://en.wikipedia.org/wiki/Jan_van_Leeuwen Thu Feb 12 03:26:46 2015
+download page http://en.wikipedia.org/wiki/Jan_van_Leeuwen docID 480 size 36449 depth 0 total size: 91569939 total num: 481 Thu Feb 12 03:26:46 2015
+visit url http://en.wikipedia.org/wiki/Special:BookSources/0-262-72020-5 Thu Feb 12 03:26:46 2015
+download page http://en.wikipedia.org/wiki/Special:BookSources/0-262-72020-5 docID 481 size 320806 depth 0 total size: 91890745 total num: 482 Thu Feb 12 03:26:47 2015
+visit url http://en.wikipedia.org/wiki/SIGACT_News Thu Feb 12 03:26:47 2015
+download page http://en.wikipedia.org/wiki/SIGACT_News docID 482 size 31832 depth 0 total size: 91922577 total num: 483 Thu Feb 12 03:26:47 2015
+visit url http://en.wikipedia.org/wiki/Special:BookSources/1-56159-248-X Thu Feb 12 03:26:47 2015
+download page http://en.wikipedia.org/wiki/Special:BookSources/1-56159-248-X docID 483 size 320804 depth 0 total size: 92243381 total num: 484 Thu Feb 12 03:26:48 2015
+visit url http://books.google.com/books?id=JTYPKxug49IC&printsec=frontcover#v=onepage&q&f=false Thu Feb 12 03:26:49 2015
+visit url http://en.wikipedia.org/wiki/Special:BookSources/978-1-57356-521-9 Thu Feb 12 03:26:49 2015
+download page http://en.wikipedia.org/wiki/Special:BookSources/978-1-57356-521-9 docID 484 size 323108 depth 0 total size: 92566489 total num: 485 Thu Feb 12 03:26:50 2015
+visit url http://en.wikipedia.org/wiki/Cambridge_University_Press Thu Feb 12 03:26:50 2015
+download page http://en.wikipedia.org/wiki/Cambridge_University_Press docID 485 size 116694 depth 0 total size: 92683183 total num: 486 Thu Feb 12 03:26:50 2015
+visit url http://robroy.dyndns.info/collier/index.html Thu Feb 12 03:26:50 2015
+download page http://robroy.dyndns.info/collier/index.html docID 486 size 9847 depth 0 total size: 92693030 total num: 487 Thu Feb 12 03:26:51 2015
+visit url http://en.wikipedia.org/wiki/Special:BookSources/0-8240-0043-9 Thu Feb 12 03:26:51 2015
+download page http://en.wikipedia.org/wiki/Special:BookSources/0-8240-0043-9 docID 487 size 320804 depth 0 total size: 93013834 total num: 488 Thu Feb 12 03:26:52 2015
+visit url http://en.wikipedia.org/wiki/Special:BookSources/978-0-2625317-9-5 Thu Feb 12 03:26:52 2015
+download page http://en.wikipedia.org/wiki/Special:BookSources/978-0-2625317-9-5 docID 488 size 323106 depth 0 total size: 93336940 total num: 489 Thu Feb 12 03:26:53 2015
+visit url http://en.wikipedia.org/wiki/Special:BookSources/3-540-06169-X Thu Feb 12 03:26:53 2015
+download page http://en.wikipedia.org/wiki/Special:BookSources/3-540-06169-X docID 489 size 320806 depth 0 total size: 93657746 total num: 490 Thu Feb 12 03:26:53 2015
+visit url http://www.eqanie.eu/media/Como%20Conference/Tanca-Research_Assessment_A_new_Initiative_by_Informatics_Europe.pdf Thu Feb 12 03:26:54 2015
+visit url http://www.acm.org/class/1998/overview.html Thu Feb 12 03:26:54 2015
+download page http://www.acm.org/class/1998/overview.html docID 490 size 27419 depth 0 total size: 93685165 total num: 491 Thu Feb 12 03:26:55 2015
+visit url http://en.wikipedia.org/wiki/Association_for_Information_Systems Thu Feb 12 03:26:55 2015
+download page http://en.wikipedia.org/wiki/Association_for_Information_Systems docID 491 size 30836 depth 0 total size: 93716001 total num: 492 Thu Feb 12 03:26:55 2015
+visit url http://www.acm.org/education/curric_vols/CC2005-March06Final.pdf Thu Feb 12 03:26:55 2015
+visit url http://en.wikipedia.org/wiki/Norman_Gibbs Thu Feb 12 03:26:55 2015
+download page http://en.wikipedia.org/wiki/Norman_Gibbs docID 492 size 31640 depth 0 total size: 93747641 total num: 493 Thu Feb 12 03:26:55 2015
+visit url http://en.wikipedia.org/wiki/Allen_Tucker Thu Feb 12 03:26:55 2015
+download page http://en.wikipedia.org/wiki/Allen_Tucker docID 493 size 31414 depth 0 total size: 93779055 total num: 494 Thu Feb 12 03:26:55 2015
+visit url http://en.wikipedia.org/wiki/Wikipedia:Wikimedia_sister_projects Thu Feb 12 03:26:55 2015
+download page http://en.wikipedia.org/wiki/Wikipedia:Wikimedia_sister_projects docID 494 size 85204 depth 0 total size: 93864259 total num: 495 Thu Feb 12 03:26:55 2015
+visit url http://en.wikipedia.org/wiki/Wikipedia:LIBRARY Thu Feb 12 03:26:56 2015
+download page http://en.wikipedia.org/wiki/Wikipedia:LIBRARY docID 495 size 50358 depth 0 total size: 93914617 total num: 496 Thu Feb 12 03:26:56 2015
+visit url https://www.dmoz.org/Computers/Computer_Science/ Thu Feb 12 03:26:56 2015
+download page https://www.dmoz.org/Computers/Computer_Science/ docID 496 size 21601 depth 0 total size: 93936218 total num: 497 Thu Feb 12 03:26:57 2015
+visit url http://en.wikipedia.org/wiki/DMOZ Thu Feb 12 03:26:57 2015
+download page http://en.wikipedia.org/wiki/DMOZ docID 497 size 148561 depth 0 total size: 94084779 total num: 498 Thu Feb 12 03:26:57 2015
+visit url http://www.lib.uwaterloo.ca/society/compsci_soc.html Thu Feb 12 03:26:57 2015
+download page http://www.lib.uwaterloo.ca/society/compsci_soc.html docID 498 size 58154 depth 0 total size: 94142933 total num: 499 Thu Feb 12 03:26:57 2015
+visit url http://jeffhuang.com/best_paper_awards.html Thu Feb 12 03:26:57 2015
+download page http://jeffhuang.com/best_paper_awards.html docID 499 size 349806 depth 0 total size: 94492739 total num: 500 Thu Feb 12 03:26:57 2015
